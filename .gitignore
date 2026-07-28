@@ -13,3 +13,8 @@ __pycache__/
 # Archivos de la base de datos o temporales
 *.db
 *.log
+
+script.sql
+script1.sql
+script2.sql
+truncate.sql
