@@ -1,0 +1,451 @@
+id_cliente,nombre,sexo,telefono,email,fecha_registro,sucursal_preferida
+C0001,Jose López Hernández,M,5514687710,jose.lopez.hernandez95@gmail.com,2021-07-05,San Ángel
+C0002,Fernanda Gómez Sánchez,F,5512126065,fernanda.gomez.sanchez54@gmail.com,2021-02-05,Cuauhtémoc
+C0003,Victoria Mendoza Jiménez,F,5534574010,victoria.mendoza.jimenez24@gmail.com,2021-11-01,Cuauhtémoc
+C0004,Ricardo Reyes Sánchez,M,5582623626,ricardo.reyes.sanchez69@gmail.com,2021-05-13,San Ángel
+C0005,Sofia Díaz Gutiérrez,F,5584683114,sofia.diaz.gutierrez18@gmail.com,2021-04-05,Cuauhtémoc
+C0006,Victoria Gómez Ramírez,F,5536847870,victoria.gomez.ramirez68@gmail.com,2022-05-26,San Ángel
+C0007,Carlos Díaz Martínez,M,5529296271,carlos.diaz.martinez70@gmail.com,2021-01-12,Cuauhtémoc
+C0008,Camila García Martínez,F,5532012140,camila.garcia.martinez19@gmail.com,2024-04-18,Cuauhtémoc
+C0009,Valeria Hernández Gómez,F,5581092879,valeria.hernandez.gomez28@gmail.com,2025-04-28,Cuauhtémoc
+C0010,Renata García Vázquez,F,5515396186,renata.garcia.vazquez32@gmail.com,2022-07-21,San Ángel
+C0011,Mariana González Jiménez,F,5561832675,mariana.gonzalez.jimenez54@gmail.com,2021-03-26,San Ángel
+C0012,Laura Jiménez Reyes,F,5589848303,laura.jimenez.reyes31@gmail.com,2021-04-03,Cuauhtémoc
+C0013,Carolina Jiménez Cruz,F,5534913744,carolina.jimenez.cruz63@gmail.com,2022-07-18,Cuauhtémoc
+C0014,Fernanda Díaz López,F,5560575884,fernanda.diaz.lopez94@gmail.com,2025-08-26,Cuauhtémoc
+C0015,Lucia Gómez López,F,5531094944,lucia.gomez.lopez84@gmail.com,2024-12-10,San Ángel
+C0016,Rodrigo González Flores,M,5519499110,rodrigo.gonzalez.flores20@gmail.com,2025-06-14,Cuauhtémoc
+C0017,Ana Cruz García,F,5521766572,ana.cruz.garcia99@gmail.com,2022-03-26,San Ángel
+C0018,Miguel Jiménez Martínez,M,5519797846,miguel.jimenez.martinez98@gmail.com,2024-04-13,Cuauhtémoc
+C0019,Lucia López Morales,F,5571682528,lucia.lopez.morales74@gmail.com,2022-02-03,San Ángel
+C0020,Paula Rodríguez Díaz,F,5566528968,paula.rodriguez.diaz32@gmail.com,2025-12-28,San Ángel
+C0021,Luis Cruz García,M,5581718001,luis.cruz.garcia29@gmail.com,2025-07-23,Cuauhtémoc
+C0022,Gabriela Reyes Flores,F,5516452183,gabriela.reyes.flores89@gmail.com,2021-10-12,Cuauhtémoc
+C0023,Valeria Torres Martínez,F,5532954413,valeria.torres.martinez10@gmail.com,2025-01-01,Cuauhtémoc
+C0024,Ana Martínez González,F,5515356806,ana.martinez.gonzalez65@gmail.com,2026-02-19,Cuauhtémoc
+C0025,Andrea Rodríguez Morales,F,5582140380,andrea.rodriguez.morales90@gmail.com,2026-04-02,Cuauhtémoc
+C0026,Pablo Flores Gutiérrez,M,5581489694,pablo.flores.gutierrez21@gmail.com,2025-10-01,Cuauhtémoc
+C0027,Rodrigo Vázquez Morales,M,5547143753,rodrigo.vazquez.morales77@gmail.com,2025-10-23,San Ángel
+C0028,Natalia Ramírez Rodríguez,F,5588854192,natalia.ramirez.rodriguez60@gmail.com,2022-09-02,San Ángel
+C0029,Renata Sánchez Reyes,F,5551327942,renata.sanchez.reyes10@gmail.com,2021-12-05,Cuauhtémoc
+C0030,Natalia Cruz Vázquez,F,5574369192,natalia.cruz.vazquez33@gmail.com,2025-09-21,San Ángel
+C0031,Victoria Pérez Cruz,F,5597943028,victoria.perez.cruz86@gmail.com,2024-04-26,Cuauhtémoc
+C0032,Camila Díaz Gutiérrez,F,5573676521,camila.diaz.gutierrez94@gmail.com,2023-07-26,San Ángel
+C0033,Renata López Hernández,F,5518750020,renata.lopez.hernandez27@gmail.com,2023-01-21,Cuauhtémoc
+C0034,Hugo Flores Gómez,M,5550080030,hugo.flores.gomez97@gmail.com,2025-03-24,Cuauhtémoc
+C0035,Andrea Gutiérrez Cruz,F,5578338494,andrea.gutierrez.cruz45@gmail.com,2024-02-27,Cuauhtémoc
+C0036,Claudia Rodríguez Flores,F,5553092102,claudia.rodriguez.flores68@gmail.com,2023-11-12,Cuauhtémoc
+C0037,Carolina Gutiérrez Gutiérrez,F,5542917299,carolina.gutierrez.gutierrez42@gmail.com,2024-01-28,Cuauhtémoc
+C0038,Maria Morales García,F,5538012530,maria.morales.garcia95@gmail.com,2024-09-23,Cuauhtémoc
+C0039,Andrea Díaz Gómez,F,5519260599,andrea.diaz.gomez49@gmail.com,2023-06-09,San Ángel
+C0040,Victoria Gutiérrez Sánchez,F,5521122956,victoria.gutierrez.sanchez93@gmail.com,2022-12-14,San Ángel
+C0041,Carlos Gutiérrez Flores,M,5540817209,carlos.gutierrez.flores30@gmail.com,2025-11-02,San Ángel
+C0042,Valeria Torres Mendoza,F,5529532961,valeria.torres.mendoza78@gmail.com,2024-06-23,Cuauhtémoc
+C0043,Fernando Pérez Díaz,M,5562768222,fernando.perez.diaz51@gmail.com,2025-03-26,San Ángel
+C0044,Gabriela Gutiérrez Torres,F,5569906440,gabriela.gutierrez.torres15@gmail.com,2024-06-03,San Ángel
+C0045,Paula Vázquez García,F,5519516313,paula.vazquez.garcia50@gmail.com,2024-05-22,San Ángel
+C0046,Lucia Gómez Díaz,F,5589159371,lucia.gomez.diaz73@gmail.com,2024-11-12,Cuauhtémoc
+C0047,Carlos Jiménez Martínez,M,5567230031,carlos.jimenez.martinez53@gmail.com,2025-08-24,Cuauhtémoc
+C0048,Ximena Hernández Gómez,F,5565700494,ximena.hernandez.gomez32@gmail.com,2024-04-26,Cuauhtémoc
+C0049,Maria Rodríguez Rodríguez,F,5593271587,maria.rodriguez.rodriguez80@gmail.com,2025-09-06,San Ángel
+C0050,Carolina González Ramírez,F,5516645027,carolina.gonzalez.ramirez86@gmail.com,2024-08-26,San Ángel
+C0051,Claudia Gómez Cruz,F,5559374594,claudia.gomez.cruz39@gmail.com,2023-03-24,Cuauhtémoc
+C0052,Andrea Gutiérrez Ramírez,F,5590517964,andrea.gutierrez.ramirez14@gmail.com,2021-09-04,San Ángel
+C0053,Eduardo Gutiérrez Gutiérrez,M,5534682516,eduardo.gutierrez.gutierrez51@gmail.com,2023-01-27,San Ángel
+C0054,Daniela Pérez Jiménez,F,5510433518,daniela.perez.jimenez79@gmail.com,2026-07-25,Cuauhtémoc
+C0055,Ximena Rodríguez Jiménez,F,5533386985,ximena.rodriguez.jimenez55@gmail.com,2022-07-14,San Ángel
+C0056,Hugo Vázquez Díaz,M,5588813639,hugo.vazquez.diaz71@gmail.com,2023-09-23,San Ángel
+C0057,Ricardo Jiménez Gómez,M,5581011346,ricardo.jimenez.gomez61@gmail.com,2024-06-20,Cuauhtémoc
+C0058,Diego López Reyes,M,5583330541,diego.lopez.reyes81@gmail.com,2023-09-27,Cuauhtémoc
+C0059,Daniela Sánchez Martínez,F,5549404800,daniela.sanchez.martinez76@gmail.com,2022-11-18,Cuauhtémoc
+C0060,Gabriela Rodríguez Mendoza,F,5572503077,gabriela.rodriguez.mendoza50@gmail.com,2023-08-27,San Ángel
+C0061,Ricardo López Torres,M,5521525584,ricardo.lopez.torres19@gmail.com,2025-07-22,Cuauhtémoc
+C0062,Claudia Flores Pérez,F,5536789181,claudia.flores.perez43@gmail.com,2023-02-13,Cuauhtémoc
+C0063,Andrea Mendoza López,F,5544943901,andrea.mendoza.lopez64@gmail.com,2021-04-03,Cuauhtémoc
+C0064,Mariana Gutiérrez Vázquez,F,5532315504,mariana.gutierrez.vazquez58@gmail.com,2025-01-03,San Ángel
+C0065,Carlos Cruz Mendoza,M,5552496457,carlos.cruz.mendoza88@gmail.com,2024-05-02,Cuauhtémoc
+C0066,Lucia Mendoza Jiménez,F,5566036550,lucia.mendoza.jimenez74@gmail.com,2024-05-27,Cuauhtémoc
+C0067,Ricardo Ramírez Vázquez,M,5587100767,ricardo.ramirez.vazquez73@gmail.com,2023-03-14,Cuauhtémoc
+C0068,Mariana Pérez Pérez,F,5531156691,mariana.perez.perez14@gmail.com,2026-01-26,Cuauhtémoc
+C0069,Gabriela Gómez Torres,F,5569628790,gabriela.gomez.torres13@gmail.com,2022-02-27,Cuauhtémoc
+C0070,Sofia Martínez Martínez,F,5596766322,sofia.martinez.martinez58@gmail.com,2025-07-30,Cuauhtémoc
+C0071,Victoria Morales Sánchez,F,5578874410,victoria.morales.sanchez51@gmail.com,2024-11-19,Cuauhtémoc
+C0072,Ricardo Díaz Jiménez,M,5518622592,ricardo.diaz.jimenez48@gmail.com,2025-07-08,San Ángel
+C0073,Carlos Díaz Pérez,M,5560391769,carlos.diaz.perez64@gmail.com,2021-10-20,Cuauhtémoc
+C0074,Valeria Cruz López,F,5555077779,valeria.cruz.lopez86@gmail.com,2023-09-28,San Ángel
+C0075,Regina Reyes Ramírez,F,5532482593,regina.reyes.ramirez18@gmail.com,2025-11-21,Cuauhtémoc
+C0076,Fernando Jiménez Sánchez,M,5545789143,fernando.jimenez.sanchez29@gmail.com,2025-03-25,Cuauhtémoc
+C0077,Eduardo Ramírez González,M,5539241722,eduardo.ramirez.gonzalez35@gmail.com,2026-06-29,Cuauhtémoc
+C0078,Valeria Rodríguez Flores,F,5592961387,valeria.rodriguez.flores62@gmail.com,2025-01-23,San Ángel
+C0079,Carolina Gómez Rodríguez,F,5584270771,carolina.gomez.rodriguez12@gmail.com,2024-08-06,Cuauhtémoc
+C0080,Paula Jiménez Sánchez,F,5565613841,paula.jimenez.sanchez64@gmail.com,2024-10-29,Cuauhtémoc
+C0081,Andrea Gutiérrez Díaz,F,5587333827,andrea.gutierrez.diaz82@gmail.com,2022-05-26,San Ángel
+C0082,Victoria Gutiérrez Hernández,F,5586071627,victoria.gutierrez.hernandez25@gmail.com,2021-02-11,Cuauhtémoc
+C0083,Jose Gutiérrez Sánchez,M,5538102508,jose.gutierrez.sanchez15@gmail.com,2023-03-21,Cuauhtémoc
+C0084,Fernanda Vázquez Pérez,F,5591816095,fernanda.vazquez.perez19@gmail.com,2025-10-21,Cuauhtémoc
+C0085,Adrian Pérez Sánchez,M,5578806309,adrian.perez.sanchez58@gmail.com,2025-07-04,Cuauhtémoc
+C0086,Daniela Díaz Hernández,F,5518045321,daniela.diaz.hernandez45@gmail.com,2022-12-08,San Ángel
+C0087,Maria García Vázquez,F,5514083020,maria.garcia.vazquez46@gmail.com,2026-04-24,Cuauhtémoc
+C0088,Fernando Mendoza Reyes,M,5549540967,fernando.mendoza.reyes41@gmail.com,2024-03-25,Cuauhtémoc
+C0089,Camila Ramírez Pérez,F,5551838178,camila.ramirez.perez76@gmail.com,2023-05-05,San Ángel
+C0090,Miguel Flores Mendoza,M,5514362854,miguel.flores.mendoza93@gmail.com,2022-02-25,Cuauhtémoc
+C0091,Claudia Reyes Hernández,F,5568351379,claudia.reyes.hernandez92@gmail.com,2023-05-20,Cuauhtémoc
+C0092,Mariana López Martínez,F,5566235814,mariana.lopez.martinez82@gmail.com,2025-09-03,San Ángel
+C0093,Ricardo Mendoza García,M,5569353608,ricardo.mendoza.garcia77@gmail.com,2024-09-10,Cuauhtémoc
+C0094,Fernanda Torres Díaz,F,5588871618,fernanda.torres.diaz76@gmail.com,2022-11-10,San Ángel
+C0095,Luis Díaz López,M,5552673655,luis.diaz.lopez99@gmail.com,2023-03-23,Cuauhtémoc
+C0096,Sofia Flores Mendoza,F,5520247156,sofia.flores.mendoza18@gmail.com,2023-09-14,Cuauhtémoc
+C0097,Jose Mendoza Hernández,M,5589547921,jose.mendoza.hernandez88@gmail.com,2022-12-24,Cuauhtémoc
+C0098,Renata Torres Pérez,F,5515569491,renata.torres.perez44@gmail.com,2026-03-02,San Ángel
+C0099,Laura Morales Cruz,F,5514333735,laura.morales.cruz94@gmail.com,2024-03-30,San Ángel
+C0100,Andrea Torres Flores,F,5521795448,andrea.torres.flores76@gmail.com,2025-02-22,Cuauhtémoc
+C0101,Santiago Cruz Hernández,M,5513747477,santiago.cruz.hernandez48@gmail.com,2021-05-20,Cuauhtémoc
+C0102,Paula Mendoza Vázquez,F,5562462489,paula.mendoza.vazquez68@gmail.com,2024-06-02,Cuauhtémoc
+C0103,Sofia Gómez Flores,F,5557655362,sofia.gomez.flores99@gmail.com,2022-12-24,Cuauhtémoc
+C0104,Valeria González Jiménez,F,5526902125,valeria.gonzalez.jimenez22@gmail.com,2023-01-04,San Ángel
+C0105,Laura Pérez García,F,5585192418,laura.perez.garcia88@gmail.com,2024-06-20,Cuauhtémoc
+C0106,Sofia Díaz Vázquez,F,5512406448,sofia.diaz.vazquez63@gmail.com,2024-10-12,Cuauhtémoc
+C0107,Luis Torres Pérez,M,5540770721,luis.torres.perez64@gmail.com,2024-07-02,San Ángel
+C0108,Regina Reyes González,F,5599420875,regina.reyes.gonzalez70@gmail.com,2023-02-16,San Ángel
+C0109,Natalia Cruz Gutiérrez,F,5529181113,natalia.cruz.gutierrez55@gmail.com,2022-07-22,Cuauhtémoc
+C0110,Daniela Mendoza Cruz,F,5532506222,daniela.mendoza.cruz29@gmail.com,2022-05-25,Cuauhtémoc
+C0111,Laura Jiménez García,F,5559486404,laura.jimenez.garcia16@gmail.com,2022-06-20,Cuauhtémoc
+C0112,Carlos Díaz García,M,5551141540,carlos.diaz.garcia34@gmail.com,2022-02-09,San Ángel
+C0113,Natalia Cruz Flores,F,5561599713,natalia.cruz.flores63@gmail.com,2026-03-10,San Ángel
+C0114,Renata Díaz García,F,5594789521,renata.diaz.garcia88@gmail.com,2026-05-16,San Ángel
+C0115,Lucia Flores López,F,5559002103,lucia.flores.lopez56@gmail.com,2023-04-06,San Ángel
+C0116,Natalia Vázquez Cruz,F,5591545868,natalia.vazquez.cruz31@gmail.com,2022-06-11,San Ángel
+C0117,Paula Rodríguez Díaz,F,5518350528,paula.rodriguez.diaz58@gmail.com,2024-11-09,Cuauhtémoc
+C0118,Laura González Sánchez,F,5559932252,laura.gonzalez.sanchez62@gmail.com,2023-02-09,Cuauhtémoc
+C0119,Rodrigo Sánchez Flores,M,5552114575,rodrigo.sanchez.flores94@gmail.com,2024-02-12,Cuauhtémoc
+C0120,Camila Torres Ramírez,F,5570334831,camila.torres.ramirez43@gmail.com,2021-12-28,Cuauhtémoc
+C0121,Jose Martínez Pérez,M,5575801922,jose.martinez.perez95@gmail.com,2023-12-07,Cuauhtémoc
+C0122,Ana García Cruz,F,5560866819,ana.garcia.cruz26@gmail.com,2025-03-19,Cuauhtémoc
+C0123,Claudia Gutiérrez Martínez,F,5548862916,claudia.gutierrez.martinez57@gmail.com,2022-01-23,Cuauhtémoc
+C0124,Javier Gutiérrez Torres,M,5517024167,javier.gutierrez.torres40@gmail.com,2023-06-12,Cuauhtémoc
+C0125,Victoria Morales López,F,5591549869,victoria.morales.lopez16@gmail.com,2025-07-20,Cuauhtémoc
+C0126,Valeria González López,F,5524135908,valeria.gonzalez.lopez81@gmail.com,2023-08-23,Cuauhtémoc
+C0127,Lucia González Flores,F,5592269181,lucia.gonzalez.flores64@gmail.com,2023-02-15,Cuauhtémoc
+C0128,Mariana Gómez Jiménez,F,5552100292,mariana.gomez.jimenez16@gmail.com,2022-04-17,Cuauhtémoc
+C0129,Mariana Morales Díaz,F,5580558942,mariana.morales.diaz73@gmail.com,2023-02-07,San Ángel
+C0130,Daniela Pérez Pérez,F,5512799429,daniela.perez.perez15@gmail.com,2022-10-12,San Ángel
+C0131,Ricardo Flores Mendoza,M,5526509972,ricardo.flores.mendoza65@gmail.com,2023-01-10,Cuauhtémoc
+C0132,Mariana Vázquez Díaz,F,5553444446,mariana.vazquez.diaz27@gmail.com,2025-07-28,Cuauhtémoc
+C0133,Rodrigo Reyes García,M,5564555408,rodrigo.reyes.garcia13@gmail.com,2023-02-11,Cuauhtémoc
+C0134,Carolina Gutiérrez Torres,F,5588191151,carolina.gutierrez.torres18@gmail.com,2025-05-25,Cuauhtémoc
+C0135,Paula Reyes García,F,5510032727,paula.reyes.garcia97@gmail.com,2024-08-22,Cuauhtémoc
+C0136,Oscar Torres Sánchez,M,5526156441,oscar.torres.sanchez59@gmail.com,2025-11-06,San Ángel
+C0137,Gabriela Sánchez Ramírez,F,5598471613,gabriela.sanchez.ramirez91@gmail.com,2026-07-29,Cuauhtémoc
+C0138,Claudia Cruz Flores,F,5566927311,claudia.cruz.flores70@gmail.com,2024-10-06,Cuauhtémoc
+C0139,Alejandro Jiménez Vázquez,M,5538420657,alejandro.jimenez.vazquez36@gmail.com,2024-01-12,Cuauhtémoc
+C0140,Daniela Hernández Vázquez,F,5514103480,daniela.hernandez.vazquez69@gmail.com,2023-12-23,San Ángel
+C0141,Regina Hernández Gutiérrez,F,5590059483,regina.hernandez.gutierrez87@gmail.com,2025-11-19,Cuauhtémoc
+C0142,Camila Martínez Jiménez,F,5588060308,camila.martinez.jimenez14@gmail.com,2025-12-19,Cuauhtémoc
+C0143,Fernanda Ramírez Hernández,F,5591369797,fernanda.ramirez.hernandez61@gmail.com,2022-03-06,San Ángel
+C0144,Eduardo Hernández Rodríguez,M,5523027454,eduardo.hernandez.rodriguez53@gmail.com,2024-08-19,Cuauhtémoc
+C0145,Gabriela Martínez Martínez,F,5514247149,gabriela.martinez.martinez35@gmail.com,2021-08-27,Cuauhtémoc
+C0146,Natalia Rodríguez Flores,F,5555316883,natalia.rodriguez.flores17@gmail.com,2024-09-18,San Ángel
+C0147,Regina Torres Vázquez,F,5540112715,regina.torres.vazquez66@gmail.com,2023-06-28,San Ángel
+C0148,Renata Díaz Gómez,F,5594967131,renata.diaz.gomez83@gmail.com,2025-10-24,San Ángel
+C0149,Laura Cruz Reyes,F,5546031169,laura.cruz.reyes72@gmail.com,2021-08-16,San Ángel
+C0150,Renata Flores López,F,5524292755,renata.flores.lopez45@gmail.com,2021-10-24,Cuauhtémoc
+C0151,Mariana Jiménez Díaz,F,5546054151,mariana.jimenez.diaz44@gmail.com,2024-04-01,San Ángel
+C0152,Laura Torres García,F,5553292425,laura.torres.garcia66@gmail.com,2023-09-07,San Ángel
+C0153,Fernanda Torres García,F,5538016809,fernanda.torres.garcia21@gmail.com,2022-05-22,Cuauhtémoc
+C0154,Natalia Gómez Flores,F,5546522511,natalia.gomez.flores35@gmail.com,2025-10-17,Cuauhtémoc
+C0155,Gabriela González Gómez,F,5578980868,gabriela.gonzalez.gomez93@gmail.com,2023-01-15,Cuauhtémoc
+C0156,Carolina Jiménez García,F,5536310623,carolina.jimenez.garcia24@gmail.com,2023-05-21,Cuauhtémoc
+C0157,Mariana Pérez Ramírez,F,5567590898,mariana.perez.ramirez86@gmail.com,2023-12-01,San Ángel
+C0158,Javier Cruz Reyes,M,5577571648,javier.cruz.reyes19@gmail.com,2025-04-25,Cuauhtémoc
+C0159,Daniel Jiménez López,M,5525195370,daniel.jimenez.lopez72@gmail.com,2023-08-03,San Ángel
+C0160,Natalia Cruz Cruz,F,5540104826,natalia.cruz.cruz14@gmail.com,2021-05-31,Cuauhtémoc
+C0161,Carolina Cruz González,F,5576870993,carolina.cruz.gonzalez98@gmail.com,2023-10-16,Cuauhtémoc
+C0162,Daniel Sánchez Sánchez,M,5582536263,daniel.sanchez.sanchez23@gmail.com,2023-07-03,San Ángel
+C0163,Fernanda Martínez Rodríguez,F,5587677936,fernanda.martinez.rodriguez99@gmail.com,2021-05-05,San Ángel
+C0164,Ximena Morales Pérez,F,5535476041,ximena.morales.perez34@gmail.com,2025-07-16,San Ángel
+C0165,Fernanda Hernández Cruz,F,5537559464,fernanda.hernandez.cruz26@gmail.com,2022-07-20,San Ángel
+C0166,Claudia Cruz Morales,F,5570339409,claudia.cruz.morales90@gmail.com,2022-10-09,San Ángel
+C0167,Valeria Torres Vázquez,F,5594581747,valeria.torres.vazquez50@gmail.com,2023-10-08,Cuauhtémoc
+C0168,Victoria Jiménez Flores,F,5540631015,victoria.jimenez.flores36@gmail.com,2022-12-06,Cuauhtémoc
+C0169,Carolina Gómez Reyes,F,5537852996,carolina.gomez.reyes88@gmail.com,2024-07-29,Cuauhtémoc
+C0170,Sofia Gómez Morales,F,5562167221,sofia.gomez.morales38@gmail.com,2024-09-11,Cuauhtémoc
+C0171,Paula Ramírez Pérez,F,5528357763,paula.ramirez.perez65@gmail.com,2021-10-06,San Ángel
+C0172,Eduardo Jiménez Ramírez,M,5562805620,eduardo.jimenez.ramirez60@gmail.com,2023-06-12,Cuauhtémoc
+C0173,Andrea Cruz Mendoza,F,5516180409,andrea.cruz.mendoza22@gmail.com,2024-08-29,Cuauhtémoc
+C0174,Sofia Reyes Ramírez,F,5535003145,sofia.reyes.ramirez22@gmail.com,2022-04-17,Cuauhtémoc
+C0175,Sofia López Flores,F,5559228522,sofia.lopez.flores48@gmail.com,2024-04-09,Cuauhtémoc
+C0176,Renata Gutiérrez López,F,5569223991,renata.gutierrez.lopez24@gmail.com,2026-05-18,Cuauhtémoc
+C0177,Renata Díaz González,F,5585379431,renata.diaz.gonzalez12@gmail.com,2022-12-18,San Ángel
+C0178,Luis Díaz Sánchez,M,5527135346,luis.diaz.sanchez54@gmail.com,2024-06-11,Cuauhtémoc
+C0179,Maria Sánchez García,F,5598111496,maria.sanchez.garcia98@gmail.com,2026-06-12,Cuauhtémoc
+C0180,Luis Martínez Cruz,M,5595479659,luis.martinez.cruz60@gmail.com,2025-10-09,Cuauhtémoc
+C0181,Daniela Ramírez Gómez,F,5521084257,daniela.ramirez.gomez14@gmail.com,2023-03-08,Cuauhtémoc
+C0182,Ximena Torres García,F,5522857052,ximena.torres.garcia64@gmail.com,2024-06-02,Cuauhtémoc
+C0183,Jose Díaz Gómez,M,5585626646,jose.diaz.gomez60@gmail.com,2024-03-31,Cuauhtémoc
+C0184,Regina Cruz Flores,F,5588108853,regina.cruz.flores32@gmail.com,2024-11-05,San Ángel
+C0185,Paula Mendoza Jiménez,F,5580301558,paula.mendoza.jimenez64@gmail.com,2021-07-10,Cuauhtémoc
+C0186,Claudia Torres Sánchez,F,5580349747,claudia.torres.sanchez37@gmail.com,2025-02-25,Cuauhtémoc
+C0187,Renata Mendoza Ramírez,F,5550523812,renata.mendoza.ramirez62@gmail.com,2022-06-25,Cuauhtémoc
+C0188,Fernanda Ramírez Jiménez,F,5522608405,fernanda.ramirez.jimenez66@gmail.com,2023-02-01,Cuauhtémoc
+C0189,Claudia Cruz Mendoza,F,5593145136,claudia.cruz.mendoza55@gmail.com,2024-08-03,San Ángel
+C0190,Lucia Mendoza Torres,F,5557611424,lucia.mendoza.torres53@gmail.com,2021-04-21,Cuauhtémoc
+C0191,Alejandro Gómez Gutiérrez,M,5595409450,alejandro.gomez.gutierrez69@gmail.com,2025-01-24,Cuauhtémoc
+C0192,Maria García Reyes,F,5552982679,maria.garcia.reyes25@gmail.com,2021-08-01,San Ángel
+C0193,Daniela Gómez Torres,F,5514275760,daniela.gomez.torres98@gmail.com,2023-05-28,Cuauhtémoc
+C0194,Claudia Ramírez Gómez,F,5570018530,claudia.ramirez.gomez50@gmail.com,2023-12-06,Cuauhtémoc
+C0195,Regina Hernández Ramírez,F,5579421129,regina.hernandez.ramirez49@gmail.com,2023-09-04,Cuauhtémoc
+C0196,Andrea Díaz Ramírez,F,5577881107,andrea.diaz.ramirez61@gmail.com,2024-01-16,Cuauhtémoc
+C0197,Mariana Gutiérrez Díaz,F,5523123518,mariana.gutierrez.diaz27@gmail.com,2021-11-26,San Ángel
+C0198,Mateo Flores Flores,M,5581197890,mateo.flores.flores13@gmail.com,2024-04-27,San Ángel
+C0199,Claudia Reyes Torres,F,5574153151,claudia.reyes.torres64@gmail.com,2024-07-25,Cuauhtémoc
+C0200,Ana González Vázquez,F,5565575070,ana.gonzalez.vazquez99@gmail.com,2023-04-06,San Ángel
+C0201,Claudia Flores Díaz,F,5567144140,claudia.flores.diaz33@gmail.com,2025-12-21,Cuauhtémoc
+C0202,Mariana Morales Hernández,F,5583793088,mariana.morales.hernandez89@gmail.com,2025-09-30,San Ángel
+C0203,Victoria Martínez Ramírez,F,5577101984,victoria.martinez.ramirez45@gmail.com,2026-05-10,Cuauhtémoc
+C0204,Javier García Morales,M,5518320311,javier.garcia.morales15@gmail.com,2023-03-17,San Ángel
+C0205,Andrea Flores García,F,5557395429,andrea.flores.garcia38@gmail.com,2022-08-30,San Ángel
+C0206,Laura Díaz Mendoza,F,5564694432,laura.diaz.mendoza92@gmail.com,2021-10-16,San Ángel
+C0207,Claudia Reyes Ramírez,F,5571545039,claudia.reyes.ramirez85@gmail.com,2021-03-28,Cuauhtémoc
+C0208,Natalia Martínez Jiménez,F,5519806615,natalia.martinez.jimenez94@gmail.com,2026-07-16,Cuauhtémoc
+C0209,Natalia Gutiérrez Sánchez,F,5514043459,natalia.gutierrez.sanchez79@gmail.com,2023-06-14,Cuauhtémoc
+C0210,Valeria Rodríguez Flores,F,5549594522,valeria.rodriguez.flores95@gmail.com,2025-10-16,San Ángel
+C0211,Adrian Sánchez Torres,M,5579499838,adrian.sanchez.torres30@gmail.com,2024-07-02,San Ángel
+C0212,Rodrigo García Gutiérrez,M,5523167909,rodrigo.garcia.gutierrez45@gmail.com,2025-06-21,Cuauhtémoc
+C0213,Valeria López Hernández,F,5540390132,valeria.lopez.hernandez27@gmail.com,2021-04-05,Cuauhtémoc
+C0214,Regina Reyes Flores,F,5530816282,regina.reyes.flores73@gmail.com,2024-08-25,Cuauhtémoc
+C0215,Renata Ramírez Gómez,F,5576833986,renata.ramirez.gomez97@gmail.com,2024-01-09,Cuauhtémoc
+C0216,Santiago Jiménez Ramírez,M,5539408221,santiago.jimenez.ramirez69@gmail.com,2026-07-01,Cuauhtémoc
+C0217,Jose Ramírez García,M,5584453075,jose.ramirez.garcia43@gmail.com,2026-06-27,Cuauhtémoc
+C0218,Ximena Reyes Morales,F,5584307341,ximena.reyes.morales74@gmail.com,2022-07-20,Cuauhtémoc
+C0219,Carolina Pérez Mendoza,F,5522040281,carolina.perez.mendoza23@gmail.com,2021-05-03,San Ángel
+C0220,Eduardo García Morales,M,5556578048,eduardo.garcia.morales43@gmail.com,2024-04-19,San Ángel
+C0221,Daniela Rodríguez Díaz,F,5562394939,daniela.rodriguez.diaz79@gmail.com,2025-05-11,San Ángel
+C0222,Alejandro Reyes Gómez,M,5577761395,alejandro.reyes.gomez77@gmail.com,2024-01-13,San Ángel
+C0223,Regina Flores González,F,5599621516,regina.flores.gonzalez91@gmail.com,2021-06-09,San Ángel
+C0224,Claudia Torres Torres,F,5556367877,claudia.torres.torres73@gmail.com,2024-10-16,Cuauhtémoc
+C0225,Eduardo Rodríguez Hernández,M,5540954635,eduardo.rodriguez.hernandez30@gmail.com,2022-08-12,Cuauhtémoc
+C0226,Carolina Martínez Torres,F,5576699311,carolina.martinez.torres65@gmail.com,2025-02-12,Cuauhtémoc
+C0227,Camila Ramírez Vázquez,F,5579671461,camila.ramirez.vazquez29@gmail.com,2023-04-28,Cuauhtémoc
+C0228,Carolina Flores Ramírez,F,5530823593,carolina.flores.ramirez56@gmail.com,2025-04-24,San Ángel
+C0229,Mariana Díaz Torres,F,5580153279,mariana.diaz.torres13@gmail.com,2026-03-17,Cuauhtémoc
+C0230,Gabriela González Vázquez,F,5560969659,gabriela.gonzalez.vazquez28@gmail.com,2022-02-11,Cuauhtémoc
+C0231,Fernanda Jiménez Mendoza,F,5576739925,fernanda.jimenez.mendoza25@gmail.com,2026-07-12,Cuauhtémoc
+C0232,Daniela Gutiérrez Mendoza,F,5526020723,daniela.gutierrez.mendoza96@gmail.com,2026-07-01,Cuauhtémoc
+C0233,Carolina Díaz Ramírez,F,5555082016,carolina.diaz.ramirez75@gmail.com,2023-03-10,San Ángel
+C0234,Ana Martínez García,F,5572384161,ana.martinez.garcia59@gmail.com,2024-08-07,Cuauhtémoc
+C0235,Regina Ramírez Gutiérrez,F,5531720988,regina.ramirez.gutierrez47@gmail.com,2022-09-01,Cuauhtémoc
+C0236,Lucia Díaz Díaz,F,5592163650,lucia.diaz.diaz53@gmail.com,2026-02-09,Cuauhtémoc
+C0237,Laura Ramírez Jiménez,F,5562969537,laura.ramirez.jimenez49@gmail.com,2025-11-01,Cuauhtémoc
+C0238,Ana Flores Cruz,F,5529668379,ana.flores.cruz92@gmail.com,2025-02-13,Cuauhtémoc
+C0239,Ana García Gutiérrez,F,5545748198,ana.garcia.gutierrez54@gmail.com,2021-03-14,Cuauhtémoc
+C0240,Daniela Gómez Gómez,F,5524333384,daniela.gomez.gomez14@gmail.com,2025-07-18,Cuauhtémoc
+C0241,Renata Flores Cruz,F,5591329278,renata.flores.cruz84@gmail.com,2023-06-07,San Ángel
+C0242,Oscar Hernández González,M,5568165111,oscar.hernandez.gonzalez45@gmail.com,2021-10-11,San Ángel
+C0243,Laura Díaz Rodríguez,F,5554924931,laura.diaz.rodriguez65@gmail.com,2021-08-09,San Ángel
+C0244,Gabriela Vázquez Jiménez,F,5518611098,gabriela.vazquez.jimenez99@gmail.com,2023-08-22,Cuauhtémoc
+C0245,Fernanda López Flores,F,5545239763,fernanda.lopez.flores88@gmail.com,2024-12-23,San Ángel
+C0246,Jose Martínez Torres,M,5597292572,jose.martinez.torres97@gmail.com,2022-09-08,San Ángel
+C0247,Daniela González Gómez,F,5513431802,daniela.gonzalez.gomez57@gmail.com,2023-10-26,San Ángel
+C0248,Maria Jiménez Díaz,F,5511687204,maria.jimenez.diaz15@gmail.com,2023-11-05,Cuauhtémoc
+C0249,Victoria Gómez Rodríguez,F,5598172123,victoria.gomez.rodriguez29@gmail.com,2022-01-12,Cuauhtémoc
+C0250,Victoria López Torres,F,5547284403,victoria.lopez.torres47@gmail.com,2022-04-12,Cuauhtémoc
+C0251,Javier Cruz Hernández,M,5519478556,javier.cruz.hernandez26@gmail.com,2021-02-08,Cuauhtémoc
+C0252,Sofia Reyes Hernández,F,5597880004,sofia.reyes.hernandez69@gmail.com,2025-06-29,Cuauhtémoc
+C0253,Lucia Gutiérrez Pérez,F,5553861421,lucia.gutierrez.perez84@gmail.com,2022-02-07,San Ángel
+C0254,Valeria Cruz Gómez,F,5580217476,valeria.cruz.gomez48@gmail.com,2023-08-29,Cuauhtémoc
+C0255,Natalia Martínez González,F,5586331830,natalia.martinez.gonzalez46@gmail.com,2022-09-02,San Ángel
+C0256,Regina Rodríguez Sánchez,F,5538340997,regina.rodriguez.sanchez44@gmail.com,2023-05-06,San Ángel
+C0257,Paula Sánchez González,F,5536405772,paula.sanchez.gonzalez74@gmail.com,2022-11-22,Cuauhtémoc
+C0258,Laura Martínez Mendoza,F,5512575308,laura.martinez.mendoza19@gmail.com,2024-03-14,Cuauhtémoc
+C0259,Ximena Vázquez Hernández,F,5552628443,ximena.vazquez.hernandez54@gmail.com,2025-07-20,San Ángel
+C0260,Pablo Torres Gutiérrez,M,5549258917,pablo.torres.gutierrez20@gmail.com,2024-07-15,Cuauhtémoc
+C0261,Adrian García González,M,5553275212,adrian.garcia.gonzalez26@gmail.com,2024-03-16,Cuauhtémoc
+C0262,Ximena Gómez Jiménez,F,5564014287,ximena.gomez.jimenez38@gmail.com,2022-10-12,Cuauhtémoc
+C0263,Alejandro Morales Gutiérrez,M,5591870614,alejandro.morales.gutierrez23@gmail.com,2026-05-25,San Ángel
+C0264,Renata González Hernández,F,5579021137,renata.gonzalez.hernandez30@gmail.com,2023-12-08,Cuauhtémoc
+C0265,Daniela Díaz Cruz,F,5535707821,daniela.diaz.cruz56@gmail.com,2025-02-04,Cuauhtémoc
+C0266,Fernanda Torres Torres,F,5516922637,fernanda.torres.torres41@gmail.com,2023-03-14,Cuauhtémoc
+C0267,Maria Hernández Rodríguez,F,5541347754,maria.hernandez.rodriguez63@gmail.com,2024-04-17,Cuauhtémoc
+C0268,Ana López Cruz,F,5517280718,ana.lopez.cruz34@gmail.com,2025-10-23,San Ángel
+C0269,Gabriela Mendoza Vázquez,F,5528083730,gabriela.mendoza.vazquez23@gmail.com,2024-12-09,Cuauhtémoc
+C0270,Andrea González López,F,5530291243,andrea.gonzalez.lopez39@gmail.com,2024-01-29,Cuauhtémoc
+C0271,Natalia Gutiérrez Hernández,F,5523817516,natalia.gutierrez.hernandez38@gmail.com,2026-07-09,Cuauhtémoc
+C0272,Victoria Gutiérrez Pérez,F,5571021916,victoria.gutierrez.perez85@gmail.com,2024-02-15,San Ángel
+C0273,Mariana Gutiérrez Gutiérrez,F,5546100413,mariana.gutierrez.gutierrez50@gmail.com,2024-06-14,Cuauhtémoc
+C0274,Maria Martínez Vázquez,F,5568017247,maria.martinez.vazquez46@gmail.com,2024-07-23,Cuauhtémoc
+C0275,Sofia Ramírez Reyes,F,5532093176,sofia.ramirez.reyes78@gmail.com,2025-11-13,San Ángel
+C0276,Carolina Cruz Flores,F,5553417574,carolina.cruz.flores28@gmail.com,2022-11-05,Cuauhtémoc
+C0277,Mariana Rodríguez Jiménez,F,5517728837,mariana.rodriguez.jimenez10@gmail.com,2024-11-15,San Ángel
+C0278,Gabriel Gómez Mendoza,M,5593138023,gabriel.gomez.mendoza70@gmail.com,2023-04-03,San Ángel
+C0279,Renata Sánchez Morales,F,5511410475,renata.sanchez.morales29@gmail.com,2023-11-05,Cuauhtémoc
+C0280,Sofia Vázquez Torres,F,5581280875,sofia.vazquez.torres21@gmail.com,2021-10-06,Cuauhtémoc
+C0281,Regina Pérez García,F,5516170860,regina.perez.garcia66@gmail.com,2024-07-28,Cuauhtémoc
+C0282,Camila Reyes Sánchez,F,5529176346,camila.reyes.sanchez77@gmail.com,2024-07-14,Cuauhtémoc
+C0283,Gabriela Gutiérrez Morales,F,5523788445,gabriela.gutierrez.morales72@gmail.com,2021-09-24,Cuauhtémoc
+C0284,Mariana Torres Gómez,F,5589323412,mariana.torres.gomez15@gmail.com,2024-07-05,Cuauhtémoc
+C0285,Alejandro López López,M,5539530366,alejandro.lopez.lopez93@gmail.com,2022-01-01,Cuauhtémoc
+C0286,Gabriela Flores Martínez,F,5528440765,gabriela.flores.martinez52@gmail.com,2023-12-22,San Ángel
+C0287,Gabriela Cruz García,F,5590312663,gabriela.cruz.garcia85@gmail.com,2023-08-08,San Ángel
+C0288,Maria Ramírez Vázquez,F,5546667540,maria.ramirez.vazquez84@gmail.com,2025-04-29,Cuauhtémoc
+C0289,Miguel Torres González,M,5573302555,miguel.torres.gonzalez27@gmail.com,2024-04-21,San Ángel
+C0290,Laura López Ramírez,F,5565731009,laura.lopez.ramirez44@gmail.com,2025-11-20,Cuauhtémoc
+C0291,Fernanda Rodríguez Hernández,F,5568279568,fernanda.rodriguez.hernandez37@gmail.com,2021-09-26,Cuauhtémoc
+C0292,Ana Díaz Rodríguez,F,5520473406,ana.diaz.rodriguez21@gmail.com,2023-04-30,Cuauhtémoc
+C0293,Natalia Morales Vázquez,F,5565472271,natalia.morales.vazquez80@gmail.com,2023-05-27,Cuauhtémoc
+C0294,Renata Gutiérrez González,F,5544700865,renata.gutierrez.gonzalez46@gmail.com,2021-10-25,Cuauhtémoc
+C0295,Maria García García,F,5530525474,maria.garcia.garcia60@gmail.com,2025-06-20,San Ángel
+C0296,Sofia Ramírez Cruz,F,5538006601,sofia.ramirez.cruz91@gmail.com,2025-11-10,Cuauhtémoc
+C0297,Carolina López Sánchez,F,5518084120,carolina.lopez.sanchez67@gmail.com,2021-06-14,San Ángel
+C0298,Ana García Flores,F,5532445891,ana.garcia.flores86@gmail.com,2024-05-01,Cuauhtémoc
+C0299,Natalia Mendoza Pérez,F,5538531103,natalia.mendoza.perez88@gmail.com,2022-02-11,Cuauhtémoc
+C0300,Fernanda Vázquez Rodríguez,F,5515394070,fernanda.vazquez.rodriguez11@gmail.com,2022-11-12,San Ángel
+C0301,Hugo González Reyes,M,5560752710,hugo.gonzalez.reyes16@gmail.com,2023-09-29,San Ángel
+C0302,Paula Gómez Ramírez,F,5548468530,paula.gomez.ramirez74@gmail.com,2021-09-01,Cuauhtémoc
+C0303,Regina Sánchez Vázquez,F,5556405683,regina.sanchez.vazquez81@gmail.com,2022-01-09,Cuauhtémoc
+C0304,Pablo Mendoza Sánchez,M,5564727415,pablo.mendoza.sanchez94@gmail.com,2026-01-29,Cuauhtémoc
+C0305,Carolina Cruz Vázquez,F,5548296279,carolina.cruz.vazquez15@gmail.com,2021-05-22,Cuauhtémoc
+C0306,Camila Ramírez Torres,F,5545902931,camila.ramirez.torres38@gmail.com,2024-12-01,San Ángel
+C0307,Santiago Gutiérrez Jiménez,M,5514860645,santiago.gutierrez.jimenez91@gmail.com,2024-10-21,Cuauhtémoc
+C0308,Jose Hernández Jiménez,M,5516414019,jose.hernandez.jimenez24@gmail.com,2025-09-17,San Ángel
+C0309,Claudia Gutiérrez Morales,F,5587365337,claudia.gutierrez.morales40@gmail.com,2026-01-05,San Ángel
+C0310,Camila González Reyes,F,5580049858,camila.gonzalez.reyes43@gmail.com,2021-07-26,Cuauhtémoc
+C0311,Gabriel Gómez Torres,M,5589411176,gabriel.gomez.torres66@gmail.com,2022-07-20,Cuauhtémoc
+C0312,Valeria Vázquez Díaz,F,5511004191,valeria.vazquez.diaz69@gmail.com,2023-06-18,Cuauhtémoc
+C0313,Andrea González López,F,5532679117,andrea.gonzalez.lopez49@gmail.com,2025-06-09,San Ángel
+C0314,Jose Flores Sánchez,M,5581608760,jose.flores.sanchez63@gmail.com,2021-07-15,San Ángel
+C0315,Hugo Morales Ramírez,M,5570658408,hugo.morales.ramirez82@gmail.com,2025-02-15,Cuauhtémoc
+C0316,Paula Reyes García,F,5516350888,paula.reyes.garcia92@gmail.com,2022-10-25,Cuauhtémoc
+C0317,Carolina Mendoza Pérez,F,5597228667,carolina.mendoza.perez60@gmail.com,2022-04-01,Cuauhtémoc
+C0318,Hugo Jiménez Reyes,M,5585028320,hugo.jimenez.reyes67@gmail.com,2026-05-07,San Ángel
+C0319,Carlos López García,M,5530205905,carlos.lopez.garcia55@gmail.com,2025-02-13,San Ángel
+C0320,Javier Torres González,M,5576369740,javier.torres.gonzalez56@gmail.com,2025-07-18,Cuauhtémoc
+C0321,Fernanda Vázquez Gutiérrez,F,5523745232,fernanda.vazquez.gutierrez37@gmail.com,2024-06-20,Cuauhtémoc
+C0322,Regina Pérez Cruz,F,5533871566,regina.perez.cruz15@gmail.com,2023-01-06,San Ángel
+C0323,Lucia Rodríguez Gómez,F,5560177575,lucia.rodriguez.gomez26@gmail.com,2024-03-24,Cuauhtémoc
+C0324,Eduardo Torres Martínez,M,5540538910,eduardo.torres.martinez85@gmail.com,2025-08-27,Cuauhtémoc
+C0325,Andrea Jiménez Mendoza,F,5585432880,andrea.jimenez.mendoza84@gmail.com,2025-02-15,Cuauhtémoc
+C0326,Fernando Gutiérrez Díaz,M,5556564407,fernando.gutierrez.diaz99@gmail.com,2023-06-30,San Ángel
+C0327,Lucia Mendoza Gutiérrez,F,5533846384,lucia.mendoza.gutierrez93@gmail.com,2022-06-17,Cuauhtémoc
+C0328,Valeria Jiménez López,F,5534241937,valeria.jimenez.lopez55@gmail.com,2024-05-27,Cuauhtémoc
+C0329,Gabriela Vázquez Hernández,F,5516659452,gabriela.vazquez.hernandez78@gmail.com,2022-01-12,Cuauhtémoc
+C0330,Lucia Mendoza Martínez,F,5593057067,lucia.mendoza.martinez35@gmail.com,2024-08-19,San Ángel
+C0331,Alejandro Torres Vázquez,M,5530349395,alejandro.torres.vazquez11@gmail.com,2024-06-25,San Ángel
+C0332,Jose Reyes Gutiérrez,M,5519183501,jose.reyes.gutierrez60@gmail.com,2023-09-13,Cuauhtémoc
+C0333,Gabriela Mendoza Mendoza,F,5570573144,gabriela.mendoza.mendoza48@gmail.com,2024-12-31,San Ángel
+C0334,Maria Reyes García,F,5589037956,maria.reyes.garcia56@gmail.com,2021-06-17,San Ángel
+C0335,Fernanda Martínez Morales,F,5563941789,fernanda.martinez.morales79@gmail.com,2024-12-15,San Ángel
+C0336,Paula Morales Díaz,F,5585363359,paula.morales.diaz76@gmail.com,2024-02-08,San Ángel
+C0337,Regina Jiménez Morales,F,5521364785,regina.jimenez.morales95@gmail.com,2021-11-25,Cuauhtémoc
+C0338,Santiago García Cruz,M,5588814566,santiago.garcia.cruz53@gmail.com,2023-10-26,Cuauhtémoc
+C0339,Juan Cruz Gutiérrez,M,5560069401,juan.cruz.gutierrez41@gmail.com,2022-07-29,Cuauhtémoc
+C0340,Sofia Reyes Martínez,F,5590088575,sofia.reyes.martinez88@gmail.com,2022-09-10,Cuauhtémoc
+C0341,Ximena Morales Cruz,F,5547915711,ximena.morales.cruz78@gmail.com,2021-07-01,San Ángel
+C0342,Carolina Torres Flores,F,5591697007,carolina.torres.flores79@gmail.com,2022-05-20,Cuauhtémoc
+C0343,Ana Sánchez García,F,5599575371,ana.sanchez.garcia29@gmail.com,2021-08-18,San Ángel
+C0344,Fernanda Mendoza Jiménez,F,5581441857,fernanda.mendoza.jimenez53@gmail.com,2024-10-25,Cuauhtémoc
+C0345,Daniela Torres Ramírez,F,5552582044,daniela.torres.ramirez94@gmail.com,2023-01-01,Cuauhtémoc
+C0346,Daniela Jiménez Morales,F,5599316091,daniela.jimenez.morales62@gmail.com,2022-08-17,San Ángel
+C0347,Gabriela Vázquez Torres,F,5583932123,gabriela.vazquez.torres70@gmail.com,2022-09-03,San Ángel
+C0348,Oscar Díaz Morales,M,5536299464,oscar.diaz.morales64@gmail.com,2021-10-15,Cuauhtémoc
+C0349,Lucia Díaz Flores,F,5558643588,lucia.diaz.flores83@gmail.com,2021-01-18,Cuauhtémoc
+C0350,Daniela Mendoza Mendoza,F,5581817549,daniela.mendoza.mendoza57@gmail.com,2024-09-11,Cuauhtémoc
+C0351,Ximena López Pérez,F,5529472470,ximena.lopez.perez27@gmail.com,2022-04-16,Cuauhtémoc
+C0352,Gabriel Gutiérrez Ramírez,M,5547108692,gabriel.gutierrez.ramirez21@gmail.com,2025-03-31,Cuauhtémoc
+C0353,Ximena López Hernández,F,5539240282,ximena.lopez.hernandez22@gmail.com,2025-02-12,Cuauhtémoc
+C0354,Regina Rodríguez Gómez,F,5583347053,regina.rodriguez.gomez92@gmail.com,2024-03-17,San Ángel
+C0355,Adrian Vázquez Jiménez,M,5597269674,adrian.vazquez.jimenez64@gmail.com,2024-04-06,Cuauhtémoc
+C0356,Paula Mendoza Cruz,F,5513536341,paula.mendoza.cruz50@gmail.com,2024-08-13,Cuauhtémoc
+C0357,Santiago Pérez Díaz,M,5569715229,santiago.perez.diaz96@gmail.com,2021-02-05,Cuauhtémoc
+C0358,Andrea Martínez Jiménez,F,5527334420,andrea.martinez.jimenez30@gmail.com,2021-06-08,Cuauhtémoc
+C0359,Fernanda Martínez Díaz,F,5546815238,fernanda.martinez.diaz21@gmail.com,2021-11-04,San Ángel
+C0360,Victoria Reyes Jiménez,F,5588921400,victoria.reyes.jimenez18@gmail.com,2021-10-04,Cuauhtémoc
+C0361,Valeria Gutiérrez Morales,F,5567614547,valeria.gutierrez.morales41@gmail.com,2023-02-05,Cuauhtémoc
+C0362,Ximena Martínez Hernández,F,5532033377,ximena.martinez.hernandez97@gmail.com,2025-10-01,San Ángel
+C0363,Gabriela Sánchez Sánchez,F,5543943322,gabriela.sanchez.sanchez21@gmail.com,2023-12-16,San Ángel
+C0364,Carolina Reyes Cruz,F,5578424245,carolina.reyes.cruz22@gmail.com,2022-01-30,San Ángel
+C0365,Andrea Mendoza Torres,F,5515871124,andrea.mendoza.torres85@gmail.com,2023-02-22,San Ángel
+C0366,Adrian Mendoza Martínez,M,5550460846,adrian.mendoza.martinez66@gmail.com,2022-07-27,Cuauhtémoc
+C0367,Adrian Reyes Flores,M,5559663870,adrian.reyes.flores73@gmail.com,2025-01-10,Cuauhtémoc
+C0368,Gabriela Gutiérrez Hernández,F,5523863810,gabriela.gutierrez.hernandez80@gmail.com,2024-07-29,Cuauhtémoc
+C0369,Jose Gutiérrez Rodríguez,M,5521731843,jose.gutierrez.rodriguez55@gmail.com,2023-08-27,Cuauhtémoc
+C0370,Rodrigo García Cruz,M,5592757158,rodrigo.garcia.cruz93@gmail.com,2022-01-24,San Ángel
+C0371,Lucia García Torres,F,5594471611,lucia.garcia.torres82@gmail.com,2023-10-09,San Ángel
+C0372,Renata Cruz Sánchez,F,5596766826,renata.cruz.sanchez60@gmail.com,2026-03-31,Cuauhtémoc
+C0373,Juan Hernández Morales,M,5581450194,juan.hernandez.morales42@gmail.com,2023-05-07,Cuauhtémoc
+C0374,Ana Pérez López,F,5554610750,ana.perez.lopez76@gmail.com,2023-05-10,Cuauhtémoc
+C0375,Maria Mendoza Reyes,F,5583939929,maria.mendoza.reyes84@gmail.com,2024-08-06,Cuauhtémoc
+C0376,Laura García Díaz,F,5530381437,laura.garcia.diaz81@gmail.com,2023-04-16,San Ángel
+C0377,Rodrigo Sánchez Cruz,M,5564367272,rodrigo.sanchez.cruz41@gmail.com,2023-06-14,Cuauhtémoc
+C0378,Maria Pérez Jiménez,F,5535507690,maria.perez.jimenez15@gmail.com,2025-12-03,San Ángel
+C0379,Paula Jiménez Jiménez,F,5551655610,paula.jimenez.jimenez38@gmail.com,2024-08-21,San Ángel
+C0380,Ana Sánchez González,F,5543145274,ana.sanchez.gonzalez87@gmail.com,2023-02-17,Cuauhtémoc
+C0381,Daniel Gutiérrez Flores,M,5534201426,daniel.gutierrez.flores96@gmail.com,2023-02-22,Cuauhtémoc
+C0382,Andrea Mendoza Martínez,F,5567358865,andrea.mendoza.martinez80@gmail.com,2023-07-30,San Ángel
+C0383,Daniela Martínez Jiménez,F,5540437648,daniela.martinez.jimenez12@gmail.com,2025-06-06,San Ángel
+C0384,Victoria Díaz Torres,F,5587133774,victoria.diaz.torres58@gmail.com,2023-04-14,Cuauhtémoc
+C0385,Gabriela González Gómez,F,5521206330,gabriela.gonzalez.gomez52@gmail.com,2025-03-21,Cuauhtémoc
+C0386,Renata Vázquez López,F,5517092735,renata.vazquez.lopez71@gmail.com,2022-04-11,San Ángel
+C0387,Adrian Morales Vázquez,M,5581325406,adrian.morales.vazquez97@gmail.com,2025-06-13,Cuauhtémoc
+C0388,Santiago Torres Flores,M,5560357133,santiago.torres.flores82@gmail.com,2023-01-18,Cuauhtémoc
+C0389,Gabriel Cruz Reyes,M,5533123335,gabriel.cruz.reyes16@gmail.com,2023-09-18,Cuauhtémoc
+C0390,Mariana Morales Gutiérrez,F,5521560712,mariana.morales.gutierrez38@gmail.com,2024-10-08,San Ángel
+C0391,Sofia Rodríguez Hernández,F,5588232485,sofia.rodriguez.hernandez85@gmail.com,2025-12-15,Cuauhtémoc
+C0392,Renata Mendoza Mendoza,F,5598306732,renata.mendoza.mendoza48@gmail.com,2023-11-09,Cuauhtémoc
+C0393,Fernanda García López,F,5528512401,fernanda.garcia.lopez78@gmail.com,2026-04-01,Cuauhtémoc
+C0394,Daniel Torres Rodríguez,M,5576092775,daniel.torres.rodriguez38@gmail.com,2025-07-05,San Ángel
+C0395,Laura Vázquez Reyes,F,5585334120,laura.vazquez.reyes89@gmail.com,2022-11-11,San Ángel
+C0396,Valeria Hernández Gutiérrez,F,5535253448,valeria.hernandez.gutierrez71@gmail.com,2026-05-21,San Ángel
+C0397,Carolina Gómez Hernández,F,5532416549,carolina.gomez.hernandez83@gmail.com,2022-03-17,San Ángel
+C0398,Regina Sánchez Cruz,F,5560261630,regina.sanchez.cruz55@gmail.com,2025-08-02,Cuauhtémoc
+C0399,Adrian Martínez Díaz,M,5566528278,adrian.martinez.diaz77@gmail.com,2024-10-29,San Ángel
+C0400,Gabriela González Jiménez,F,5558396151,gabriela.gonzalez.jimenez25@gmail.com,2026-01-11,Cuauhtémoc
+C0401,Victoria Martínez Martínez,F,5563006489,victoria.martinez.martinez27@gmail.com,2025-03-12,Cuauhtémoc
+C0402,Laura Sánchez García,F,5595464058,laura.sanchez.garcia98@gmail.com,2021-12-05,Cuauhtémoc
+C0403,Gabriela Morales Mendoza,F,5567222237,gabriela.morales.mendoza91@gmail.com,2025-05-11,Cuauhtémoc
+C0404,Laura Torres García,F,5555755335,laura.torres.garcia46@gmail.com,2021-07-02,San Ángel
+C0405,Victoria Martínez Jiménez,F,5510510788,victoria.martinez.jimenez37@gmail.com,2025-08-11,San Ángel
+C0406,Claudia Vázquez Díaz,F,5522148868,claudia.vazquez.diaz11@gmail.com,2026-01-19,Cuauhtémoc
+C0407,Gabriela Martínez Díaz,F,5520365944,gabriela.martinez.diaz88@gmail.com,2025-05-31,Cuauhtémoc
+C0408,Ana Morales Vázquez,F,5577897248,ana.morales.vazquez62@gmail.com,2026-05-10,San Ángel
+C0409,Camila Morales Cruz,F,5564210365,camila.morales.cruz71@gmail.com,2024-04-03,Cuauhtémoc
+C0410,Maria Ramírez Ramírez,F,5569262885,maria.ramirez.ramirez49@gmail.com,2023-05-27,Cuauhtémoc
+C0411,Claudia Flores Sánchez,F,5527046709,claudia.flores.sanchez42@gmail.com,2024-10-19,Cuauhtémoc
+C0412,Laura Rodríguez Pérez,F,5597404674,laura.rodriguez.perez92@gmail.com,2025-10-08,Cuauhtémoc
+C0413,Natalia Hernández García,F,5587143125,natalia.hernandez.garcia71@gmail.com,2026-04-30,Cuauhtémoc
+C0414,Claudia Martínez Sánchez,F,5556705166,claudia.martinez.sanchez63@gmail.com,2024-04-23,San Ángel
+C0415,Maria Flores Sánchez,F,5584380974,maria.flores.sanchez56@gmail.com,2026-05-10,San Ángel
+C0416,Maria Jiménez Martínez,F,5571446892,maria.jimenez.martinez32@gmail.com,2023-06-05,Cuauhtémoc
+C0417,Laura Ramírez Reyes,F,5563840824,laura.ramirez.reyes50@gmail.com,2026-04-20,Cuauhtémoc
+C0418,Fernanda Pérez Gómez,F,5551874601,fernanda.perez.gomez20@gmail.com,2025-09-07,Cuauhtémoc
+C0419,Paula Vázquez Rodríguez,F,5559875411,paula.vazquez.rodriguez63@gmail.com,2022-08-18,Cuauhtémoc
+C0420,Camila Hernández Martínez,F,5510892524,camila.hernandez.martinez86@gmail.com,2026-07-01,Cuauhtémoc
+C0421,Gabriela Vázquez Ramírez,F,5592983173,gabriela.vazquez.ramirez35@gmail.com,2026-03-15,Cuauhtémoc
+C0422,Diego Sánchez Torres,M,5530116143,diego.sanchez.torres82@gmail.com,2021-12-19,Cuauhtémoc
+C0423,Rodrigo Hernández Torres,M,5513105032,rodrigo.hernandez.torres34@gmail.com,2024-12-17,San Ángel
+C0424,Carolina Pérez Flores,F,5530886642,carolina.perez.flores71@gmail.com,2023-01-04,San Ángel
+C0425,Maria Díaz Flores,F,5536755287,maria.diaz.flores24@gmail.com,2024-08-15,Cuauhtémoc
+C0426,Victoria Díaz Gutiérrez,F,5576162602,victoria.diaz.gutierrez30@gmail.com,2024-06-20,Cuauhtémoc
+C0427,Santiago Torres Vázquez,M,5584582616,santiago.torres.vazquez10@gmail.com,2025-01-06,Cuauhtémoc
+C0428,Victoria Torres Cruz,F,5514069323,victoria.torres.cruz65@gmail.com,2022-06-24,Cuauhtémoc
+C0429,Sofia Rodríguez Díaz,F,5556653936,sofia.rodriguez.diaz49@gmail.com,2023-05-08,Cuauhtémoc
+C0430,Victoria García Jiménez,F,5536875521,victoria.garcia.jimenez33@gmail.com,2026-03-18,Cuauhtémoc
+C0431,Miguel Hernández Gómez,M,5517020853,miguel.hernandez.gomez98@gmail.com,2025-09-03,Cuauhtémoc
+C0432,Lucia González Gómez,F,5583954497,lucia.gonzalez.gomez57@gmail.com,2026-04-28,Cuauhtémoc
+C0433,Gabriel López Gutiérrez,M,5552385118,gabriel.lopez.gutierrez48@gmail.com,2024-07-12,San Ángel
+C0434,Fernanda Martínez Gutiérrez,F,5593505577,fernanda.martinez.gutierrez10@gmail.com,2022-09-06,Cuauhtémoc
+C0435,Sofia Martínez López,F,5521249398,sofia.martinez.lopez15@gmail.com,2025-08-10,Cuauhtémoc
+C0436,Paula Reyes Pérez,F,5573233649,paula.reyes.perez23@gmail.com,2023-05-08,Cuauhtémoc
+C0437,Mateo López Gómez,M,5585598919,mateo.lopez.gomez47@gmail.com,2025-02-15,Cuauhtémoc
+C0438,Valeria González Rodríguez,F,5511845676,valeria.gonzalez.rodriguez77@gmail.com,2023-05-22,Cuauhtémoc
+C0439,Laura Díaz Morales,F,5542700654,laura.diaz.morales68@gmail.com,2023-05-17,Cuauhtémoc
+C0440,Valeria Torres Jiménez,F,5572985401,valeria.torres.jimenez30@gmail.com,2025-10-11,Cuauhtémoc
+C0441,Andrea Díaz Cruz,F,5514238633,andrea.diaz.cruz78@gmail.com,2021-12-21,San Ángel
+C0442,Ximena Jiménez Pérez,F,5590588362,ximena.jimenez.perez59@gmail.com,2022-11-07,Cuauhtémoc
+C0443,Daniel Mendoza Díaz,M,5551415109,daniel.mendoza.diaz59@gmail.com,2022-11-01,Cuauhtémoc
+C0444,Diego Gómez Reyes,M,5570193239,diego.gomez.reyes87@gmail.com,2024-05-29,San Ángel
+C0445,Gabriela Ramírez Pérez,F,5517722899,gabriela.ramirez.perez65@gmail.com,2026-05-08,San Ángel
+C0446,Alejandro Mendoza Reyes,M,5560819785,alejandro.mendoza.reyes79@gmail.com,2026-02-16,Cuauhtémoc
+C0447,Jose Reyes Vázquez,M,5572725348,jose.reyes.vazquez80@gmail.com,2026-02-26,Cuauhtémoc
+C0448,Andrea Martínez González,F,5523905173,andrea.martinez.gonzalez49@gmail.com,2021-02-19,Cuauhtémoc
+C0449,Diego López García,M,5596521933,diego.lopez.garcia34@gmail.com,2021-11-10,Cuauhtémoc
+C0450,Gabriel Pérez Díaz,M,5588265983,gabriel.perez.diaz50@gmail.com,2025-07-06,Cuauhtémoc

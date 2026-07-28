@@ -1,0 +1,1515 @@
+Fecha,TipoGasto,Costo,Sucursal
+2023-01-01,Nómina,37874,Roma
+2023-01-01,Renta,69791,Roma
+2023-01-01,Renta,56902,Polanco
+2023-01-01,Nómina,41716,Polanco
+2023-01-01,Renta,51355,Condesa
+2023-01-01,Nómina,38263,Condesa
+2023-01-02,Microsoft 365,2200,Roma
+2023-01-02,Microsoft 365,2200,Polanco
+2023-01-02,Microsoft 365,2200,Condesa
+2023-01-03,Internet,977,Roma
+2023-01-03,Internet,1283,Polanco
+2023-01-03,Internet,1172,Condesa
+2023-01-05,Luz,5196,Polanco
+2023-01-05,Luz,7082,Condesa
+2023-01-05,Luz,8527,Roma
+2023-01-10,Publicidad,4277,Condesa
+2023-01-10,Publicidad,3879,Roma
+2023-01-10,Publicidad,3735,Polanco
+2023-01-12,Agua,2854,Polanco
+2023-01-12,Agua,3291,Roma
+2023-01-12,Agua,1528,Condesa
+2023-01-15,Limpieza,3727,Roma
+2023-01-15,Limpieza,5698,Polanco
+2023-01-15,Limpieza,4887,Condesa
+2023-01-18,Mantenimiento de equipo,6486,Roma
+2023-01-18,Mantenimiento de equipo,2418,Polanco
+2023-01-18,Mantenimiento de equipo,3249,Condesa
+2023-01-20,Mantenimiento de sucursal,5334,Polanco
+2023-01-20,Mantenimiento de sucursal,3752,Roma
+2023-01-20,Mantenimiento de sucursal,3054,Condesa
+2023-01-22,Software administrativo,3624,Polanco
+2023-01-22,Software administrativo,4366,Roma
+2023-01-22,Software administrativo,3562,Condesa
+2023-01-25,Contabilidad,7814,Condesa
+2023-01-25,Contabilidad,8171,Roma
+2023-01-25,Contabilidad,8442,Polanco
+2023-01-26,Papelería,1671,Polanco
+2023-01-26,Papelería,1750,Condesa
+2023-01-26,Papelería,1874,Roma
+2023-01-28,Pago de crédito de financiamiento,12250,Roma
+2023-01-28,Pago de crédito de financiamiento,10737,Polanco
+2023-01-28,Pago de crédito de financiamiento,7873,Condesa
+2023-02-01,Renta,58838,Condesa
+2023-02-01,Nómina,40307,Roma
+2023-02-01,Renta,43089,Roma
+2023-02-01,Renta,64852,Polanco
+2023-02-01,Nómina,42840,Polanco
+2023-02-01,Nómina,40394,Condesa
+2023-02-02,Microsoft 365,2200,Roma
+2023-02-02,Microsoft 365,2200,Polanco
+2023-02-02,Microsoft 365,2200,Condesa
+2023-02-03,Internet,1492,Polanco
+2023-02-03,Internet,1224,Condesa
+2023-02-03,Internet,1158,Roma
+2023-02-05,Luz,9430,Roma
+2023-02-05,Luz,6456,Polanco
+2023-02-05,Luz,7923,Condesa
+2023-02-10,Publicidad,3725,Polanco
+2023-02-10,Publicidad,3871,Roma
+2023-02-10,Publicidad,3804,Condesa
+2023-02-12,Agua,3180,Polanco
+2023-02-12,Agua,3159,Condesa
+2023-02-12,Agua,3404,Roma
+2023-02-15,Limpieza,3910,Roma
+2023-02-15,Limpieza,3270,Condesa
+2023-02-15,Limpieza,3736,Polanco
+2023-02-18,Mantenimiento de equipo,10317,Polanco
+2023-02-18,Mantenimiento de equipo,4796,Condesa
+2023-02-18,Mantenimiento de equipo,5263,Roma
+2023-02-20,Mantenimiento de sucursal,8000,Polanco
+2023-02-20,Mantenimiento de sucursal,3499,Roma
+2023-02-20,Mantenimiento de sucursal,7111,Condesa
+2023-02-22,Software administrativo,5748,Polanco
+2023-02-22,Software administrativo,5546,Roma
+2023-02-22,Software administrativo,5762,Condesa
+2023-02-25,Contabilidad,7846,Condesa
+2023-02-25,Contabilidad,5295,Polanco
+2023-02-25,Contabilidad,8129,Roma
+2023-02-26,Papelería,1530,Polanco
+2023-02-26,Papelería,965,Roma
+2023-02-26,Papelería,1139,Condesa
+2023-02-28,Pago de crédito de financiamiento,9197,Condesa
+2023-02-28,Pago de crédito de financiamiento,8782,Roma
+2023-02-28,Pago de crédito de financiamiento,13138,Polanco
+2023-03-01,Nómina,38148,Roma
+2023-03-01,Renta,41558,Roma
+2023-03-01,Renta,64570,Polanco
+2023-03-01,Nómina,38947,Polanco
+2023-03-01,Renta,43938,Condesa
+2023-03-01,Nómina,36695,Condesa
+2023-03-02,Microsoft 365,2200,Polanco
+2023-03-02,Microsoft 365,2200,Condesa
+2023-03-02,Microsoft 365,2200,Roma
+2023-03-03,Internet,964,Polanco
+2023-03-03,Internet,1061,Condesa
+2023-03-03,Internet,1421,Roma
+2023-03-05,Luz,8416,Condesa
+2023-03-05,Luz,9804,Roma
+2023-03-05,Luz,6897,Polanco
+2023-03-10,Publicidad,4287,Roma
+2023-03-10,Publicidad,4309,Polanco
+2023-03-10,Publicidad,4085,Condesa
+2023-03-12,Agua,2892,Roma
+2023-03-12,Agua,1840,Condesa
+2023-03-12,Agua,2104,Polanco
+2023-03-15,Limpieza,3977,Polanco
+2023-03-15,Limpieza,4368,Condesa
+2023-03-15,Limpieza,4450,Roma
+2023-03-18,Mantenimiento de equipo,2887,Polanco
+2023-03-18,Mantenimiento de equipo,4272,Roma
+2023-03-18,Mantenimiento de equipo,2745,Condesa
+2023-03-20,Mantenimiento de sucursal,5183,Condesa
+2023-03-20,Mantenimiento de sucursal,3406,Roma
+2023-03-20,Mantenimiento de sucursal,4523,Polanco
+2023-03-22,Software administrativo,3733,Condesa
+2023-03-22,Software administrativo,4191,Polanco
+2023-03-22,Software administrativo,5304,Roma
+2023-03-25,Contabilidad,8575,Roma
+2023-03-25,Contabilidad,6954,Condesa
+2023-03-25,Contabilidad,6496,Polanco
+2023-03-26,Papelería,893,Polanco
+2023-03-26,Papelería,1266,Condesa
+2023-03-26,Papelería,1603,Roma
+2023-03-28,Pago de crédito de financiamiento,11980,Roma
+2023-03-28,Pago de crédito de financiamiento,7839,Polanco
+2023-03-28,Pago de crédito de financiamiento,7484,Condesa
+2023-04-01,Nómina,40613,Condesa
+2023-04-01,Renta,61048,Condesa
+2023-04-01,Nómina,42706,Polanco
+2023-04-01,Renta,57188,Polanco
+2023-04-01,Renta,48211,Roma
+2023-04-01,Nómina,40650,Roma
+2023-04-02,Microsoft 365,2200,Polanco
+2023-04-02,Microsoft 365,2200,Roma
+2023-04-02,Microsoft 365,2200,Condesa
+2023-04-03,Internet,919,Polanco
+2023-04-03,Internet,1306,Roma
+2023-04-03,Internet,1302,Condesa
+2023-04-05,Luz,6565,Polanco
+2023-04-05,Luz,6244,Roma
+2023-04-05,Luz,7906,Condesa
+2023-04-10,Publicidad,4230,Roma
+2023-04-10,Publicidad,3779,Polanco
+2023-04-10,Publicidad,3805,Condesa
+2023-04-12,Agua,1553,Polanco
+2023-04-12,Agua,2720,Condesa
+2023-04-12,Agua,1990,Roma
+2023-04-15,Limpieza,5392,Condesa
+2023-04-15,Limpieza,5298,Roma
+2023-04-15,Limpieza,5141,Polanco
+2023-04-18,Mantenimiento de equipo,8731,Polanco
+2023-04-18,Mantenimiento de equipo,11697,Condesa
+2023-04-18,Mantenimiento de equipo,5774,Roma
+2023-04-20,Mantenimiento de sucursal,4679,Condesa
+2023-04-20,Mantenimiento de sucursal,7747,Polanco
+2023-04-20,Mantenimiento de sucursal,6643,Roma
+2023-04-22,Software administrativo,4543,Polanco
+2023-04-22,Software administrativo,4132,Condesa
+2023-04-22,Software administrativo,4653,Roma
+2023-04-25,Contabilidad,8363,Polanco
+2023-04-25,Contabilidad,8452,Condesa
+2023-04-25,Contabilidad,6211,Roma
+2023-04-26,Papelería,996,Polanco
+2023-04-26,Papelería,896,Roma
+2023-04-26,Papelería,1951,Condesa
+2023-04-28,Pago de crédito de financiamiento,8533,Roma
+2023-04-28,Pago de crédito de financiamiento,9892,Condesa
+2023-04-28,Pago de crédito de financiamiento,9140,Polanco
+2023-05-01,Nómina,40665,Polanco
+2023-05-01,Renta,45583,Polanco
+2023-05-01,Nómina,42163,Condesa
+2023-05-01,Renta,53482,Roma
+2023-05-01,Nómina,41225,Roma
+2023-05-01,Renta,56749,Condesa
+2023-05-02,Microsoft 365,2200,Polanco
+2023-05-02,Microsoft 365,2200,Condesa
+2023-05-02,Microsoft 365,2200,Roma
+2023-05-03,Internet,1151,Roma
+2023-05-03,Internet,1007,Polanco
+2023-05-03,Internet,1407,Condesa
+2023-05-05,Luz,6048,Roma
+2023-05-05,Luz,5486,Polanco
+2023-05-05,Luz,10413,Condesa
+2023-05-10,Publicidad,3684,Condesa
+2023-05-10,Publicidad,4072,Roma
+2023-05-10,Publicidad,4091,Polanco
+2023-05-12,Agua,1595,Roma
+2023-05-12,Agua,2697,Condesa
+2023-05-12,Agua,2489,Polanco
+2023-05-15,Limpieza,5110,Roma
+2023-05-15,Limpieza,3113,Condesa
+2023-05-15,Limpieza,4036,Polanco
+2023-05-18,Mantenimiento de equipo,7231,Roma
+2023-05-18,Mantenimiento de equipo,6733,Polanco
+2023-05-18,Mantenimiento de equipo,7160,Condesa
+2023-05-20,Mantenimiento de sucursal,3465,Condesa
+2023-05-20,Mantenimiento de sucursal,2666,Roma
+2023-05-20,Mantenimiento de sucursal,4606,Polanco
+2023-05-22,Software administrativo,5781,Condesa
+2023-05-22,Software administrativo,4862,Roma
+2023-05-22,Software administrativo,5427,Polanco
+2023-05-25,Contabilidad,7344,Polanco
+2023-05-25,Contabilidad,5513,Condesa
+2023-05-25,Contabilidad,8991,Roma
+2023-05-26,Papelería,1232,Condesa
+2023-05-26,Papelería,917,Roma
+2023-05-26,Papelería,1274,Polanco
+2023-05-28,Pago de crédito de financiamiento,8975,Roma
+2023-05-28,Pago de crédito de financiamiento,12204,Polanco
+2023-05-28,Pago de crédito de financiamiento,11096,Condesa
+2023-06-01,Renta,65583,Polanco
+2023-06-01,Nómina,39072,Polanco
+2023-06-01,Renta,57297,Condesa
+2023-06-01,Nómina,39897,Condesa
+2023-06-01,Nómina,37544,Roma
+2023-06-01,Renta,62669,Roma
+2023-06-02,Microsoft 365,2200,Polanco
+2023-06-02,Microsoft 365,2200,Roma
+2023-06-02,Microsoft 365,2200,Condesa
+2023-06-03,Internet,1184,Polanco
+2023-06-03,Internet,973,Roma
+2023-06-03,Internet,1416,Condesa
+2023-06-05,Luz,8863,Roma
+2023-06-05,Luz,9905,Polanco
+2023-06-05,Luz,10634,Condesa
+2023-06-10,Publicidad,3699,Roma
+2023-06-10,Publicidad,3902,Polanco
+2023-06-10,Publicidad,3821,Condesa
+2023-06-12,Agua,2272,Polanco
+2023-06-12,Agua,3441,Condesa
+2023-06-12,Agua,3424,Roma
+2023-06-15,Limpieza,5170,Condesa
+2023-06-15,Limpieza,3020,Polanco
+2023-06-15,Pago de compra de reformers,250000,Roma
+2023-06-15,Limpieza,4029,Roma
+2023-06-18,Mantenimiento de equipo,9249,Polanco
+2023-06-18,Mantenimiento de equipo,8490,Condesa
+2023-06-18,Mantenimiento de equipo,2161,Roma
+2023-06-20,Mantenimiento de sucursal,5199,Condesa
+2023-06-20,Mantenimiento de sucursal,3606,Polanco
+2023-06-20,Mantenimiento de sucursal,2742,Roma
+2023-06-22,Software administrativo,5493,Condesa
+2023-06-22,Software administrativo,4397,Polanco
+2023-06-22,Software administrativo,4320,Roma
+2023-06-25,Contabilidad,6612,Polanco
+2023-06-25,Contabilidad,8089,Condesa
+2023-06-25,Contabilidad,7908,Roma
+2023-06-26,Papelería,1575,Polanco
+2023-06-26,Papelería,1226,Condesa
+2023-06-26,Papelería,1324,Roma
+2023-06-28,Pago de crédito de financiamiento,9894,Roma
+2023-06-28,Pago de crédito de financiamiento,6634,Polanco
+2023-06-28,Pago de crédito de financiamiento,11230,Condesa
+2023-07-01,Renta,46904,Condesa
+2023-07-01,Nómina,41533,Condesa
+2023-07-01,Renta,48095,Polanco
+2023-07-01,Nómina,41424,Polanco
+2023-07-01,Renta,49574,Roma
+2023-07-01,Nómina,42953,Roma
+2023-07-02,Microsoft 365,2200,Roma
+2023-07-02,Microsoft 365,2200,Polanco
+2023-07-02,Microsoft 365,2200,Condesa
+2023-07-03,Internet,1413,Condesa
+2023-07-03,Internet,1381,Roma
+2023-07-03,Internet,1273,Polanco
+2023-07-05,Luz,10238,Condesa
+2023-07-05,Luz,5958,Polanco
+2023-07-05,Luz,7157,Roma
+2023-07-10,Publicidad,3723,Condesa
+2023-07-10,Publicidad,3682,Roma
+2023-07-10,Publicidad,3921,Polanco
+2023-07-12,Agua,1513,Roma
+2023-07-12,Agua,3220,Condesa
+2023-07-12,Agua,1780,Polanco
+2023-07-15,Limpieza,4621,Polanco
+2023-07-15,Limpieza,3543,Condesa
+2023-07-15,Limpieza,5286,Roma
+2023-07-18,Mantenimiento de equipo,11956,Polanco
+2023-07-18,Mantenimiento de equipo,10740,Condesa
+2023-07-18,Mantenimiento de equipo,3730,Roma
+2023-07-20,Mantenimiento de sucursal,5191,Polanco
+2023-07-20,Mantenimiento de sucursal,7297,Condesa
+2023-07-20,Mantenimiento de sucursal,6950,Roma
+2023-07-22,Software administrativo,5478,Polanco
+2023-07-22,Software administrativo,4655,Condesa
+2023-07-22,Software administrativo,3506,Roma
+2023-07-25,Contabilidad,5790,Roma
+2023-07-25,Contabilidad,5019,Condesa
+2023-07-25,Contabilidad,8990,Polanco
+2023-07-26,Papelería,1693,Roma
+2023-07-26,Papelería,1426,Condesa
+2023-07-26,Papelería,1703,Polanco
+2023-07-28,Pago de crédito de financiamiento,11644,Roma
+2023-07-28,Pago de crédito de financiamiento,8358,Condesa
+2023-07-28,Pago de crédito de financiamiento,10079,Polanco
+2023-08-01,Renta,57145,Condesa
+2023-08-01,Renta,69045,Polanco
+2023-08-01,Nómina,39823,Polanco
+2023-08-01,Nómina,40515,Condesa
+2023-08-01,Nómina,37750,Roma
+2023-08-01,Renta,62607,Roma
+2023-08-02,Microsoft 365,2200,Polanco
+2023-08-02,Microsoft 365,2200,Condesa
+2023-08-02,Microsoft 365,2200,Roma
+2023-08-03,Internet,1174,Polanco
+2023-08-03,Internet,1340,Roma
+2023-08-03,Internet,971,Condesa
+2023-08-05,Luz,6283,Polanco
+2023-08-05,Luz,8430,Roma
+2023-08-05,Luz,8767,Condesa
+2023-08-10,Publicidad,4048,Roma
+2023-08-10,Publicidad,4087,Polanco
+2023-08-10,Publicidad,3852,Condesa
+2023-08-12,Agua,3439,Roma
+2023-08-12,Agua,3300,Polanco
+2023-08-12,Agua,2035,Condesa
+2023-08-15,Limpieza,5110,Polanco
+2023-08-15,Limpieza,5289,Roma
+2023-08-15,Limpieza,5652,Condesa
+2023-08-18,Mantenimiento de equipo,5768,Polanco
+2023-08-18,Mantenimiento de equipo,2840,Roma
+2023-08-18,Mantenimiento de equipo,11068,Condesa
+2023-08-20,Mantenimiento de sucursal,7523,Polanco
+2023-08-20,Mantenimiento de sucursal,3049,Condesa
+2023-08-20,Mantenimiento de sucursal,4277,Roma
+2023-08-22,Software administrativo,3904,Roma
+2023-08-22,Software administrativo,4517,Condesa
+2023-08-22,Software administrativo,4401,Polanco
+2023-08-25,Contabilidad,6750,Roma
+2023-08-25,Contabilidad,6385,Condesa
+2023-08-25,Contabilidad,5046,Polanco
+2023-08-26,Papelería,1202,Roma
+2023-08-26,Papelería,1299,Condesa
+2023-08-26,Papelería,1228,Polanco
+2023-08-28,Pago de crédito de financiamiento,11324,Condesa
+2023-08-28,Pago de crédito de financiamiento,12817,Polanco
+2023-08-28,Pago de crédito de financiamiento,10373,Roma
+2023-09-01,Renta,45925,Condesa
+2023-09-01,Nómina,38207,Condesa
+2023-09-01,Renta,51727,Roma
+2023-09-01,Nómina,40670,Polanco
+2023-09-01,Renta,67386,Polanco
+2023-09-01,Nómina,42915,Roma
+2023-09-02,Microsoft 365,2200,Condesa
+2023-09-02,Microsoft 365,2200,Polanco
+2023-09-02,Microsoft 365,2200,Roma
+2023-09-03,Internet,1211,Polanco
+2023-09-03,Internet,1146,Roma
+2023-09-03,Internet,1472,Condesa
+2023-09-05,Luz,8729,Polanco
+2023-09-05,Luz,8833,Condesa
+2023-09-05,Luz,9910,Roma
+2023-09-10,Publicidad,4382,Polanco
+2023-09-10,Publicidad,3893,Roma
+2023-09-10,Publicidad,4303,Condesa
+2023-09-12,Agua,2057,Polanco
+2023-09-12,Agua,3016,Roma
+2023-09-12,Agua,2094,Condesa
+2023-09-15,Limpieza,5979,Polanco
+2023-09-15,Limpieza,5859,Roma
+2023-09-15,Limpieza,5886,Condesa
+2023-09-18,Mantenimiento de equipo,10019,Polanco
+2023-09-18,Mantenimiento de equipo,2494,Condesa
+2023-09-18,Mantenimiento de equipo,8506,Roma
+2023-09-20,Mantenimiento de sucursal,4152,Polanco
+2023-09-20,Mantenimiento de sucursal,3261,Condesa
+2023-09-20,Mantenimiento de sucursal,2842,Roma
+2023-09-22,Software administrativo,5341,Polanco
+2023-09-22,Software administrativo,5637,Roma
+2023-09-22,Software administrativo,3844,Condesa
+2023-09-25,Contabilidad,6040,Condesa
+2023-09-25,Contabilidad,8507,Polanco
+2023-09-25,Contabilidad,7676,Roma
+2023-09-26,Papelería,1900,Roma
+2023-09-26,Papelería,2068,Condesa
+2023-09-26,Papelería,1748,Polanco
+2023-09-28,Pago de crédito de financiamiento,9776,Roma
+2023-09-28,Pago de crédito de financiamiento,12579,Condesa
+2023-09-28,Pago de crédito de financiamiento,6403,Polanco
+2023-10-01,Nómina,39954,Polanco
+2023-10-01,Renta,57741,Polanco
+2023-10-01,Nómina,38922,Roma
+2023-10-01,Renta,55704,Condesa
+2023-10-01,Renta,64931,Roma
+2023-10-01,Nómina,41376,Condesa
+2023-10-02,Microsoft 365,2200,Condesa
+2023-10-02,Microsoft 365,2200,Polanco
+2023-10-02,Microsoft 365,2200,Roma
+2023-10-03,Internet,1494,Polanco
+2023-10-03,Internet,940,Roma
+2023-10-03,Internet,1361,Condesa
+2023-10-05,Luz,9717,Roma
+2023-10-05,Luz,6908,Condesa
+2023-10-05,Luz,5791,Polanco
+2023-10-10,Publicidad,4338,Polanco
+2023-10-10,Publicidad,4386,Roma
+2023-10-10,Publicidad,4087,Condesa
+2023-10-12,Agua,2562,Polanco
+2023-10-12,Agua,2439,Roma
+2023-10-12,Agua,1692,Condesa
+2023-10-15,Limpieza,3082,Polanco
+2023-10-15,Limpieza,3128,Condesa
+2023-10-15,Limpieza,5187,Roma
+2023-10-18,Mantenimiento de equipo,6806,Polanco
+2023-10-18,Mantenimiento de equipo,5286,Condesa
+2023-10-18,Mantenimiento de equipo,3111,Roma
+2023-10-20,Mantenimiento de sucursal,7441,Roma
+2023-10-20,Mantenimiento de sucursal,3397,Polanco
+2023-10-20,Mantenimiento de sucursal,4554,Condesa
+2023-10-22,Software administrativo,3586,Condesa
+2023-10-22,Software administrativo,5535,Polanco
+2023-10-22,Software administrativo,4769,Roma
+2023-10-25,Contabilidad,6405,Condesa
+2023-10-25,Contabilidad,8958,Polanco
+2023-10-25,Contabilidad,6493,Roma
+2023-10-26,Papelería,1762,Condesa
+2023-10-26,Papelería,1597,Roma
+2023-10-26,Papelería,1442,Polanco
+2023-10-28,Pago de crédito de financiamiento,10689,Polanco
+2023-10-28,Pago de crédito de financiamiento,8245,Condesa
+2023-10-28,Pago de crédito de financiamiento,9674,Roma
+2023-11-01,Renta,47589,Polanco
+2023-11-01,Nómina,38149,Polanco
+2023-11-01,Renta,54874,Condesa
+2023-11-01,Nómina,42087,Condesa
+2023-11-01,Nómina,41785,Roma
+2023-11-01,Renta,60942,Roma
+2023-11-02,Microsoft 365,2200,Polanco
+2023-11-02,Microsoft 365,2200,Roma
+2023-11-02,Microsoft 365,2200,Condesa
+2023-11-03,Internet,1320,Polanco
+2023-11-03,Internet,1184,Roma
+2023-11-03,Internet,969,Condesa
+2023-11-05,Luz,6757,Roma
+2023-11-05,Luz,7025,Polanco
+2023-11-05,Luz,10549,Condesa
+2023-11-10,Publicidad,3625,Roma
+2023-11-10,Publicidad,4175,Condesa
+2023-11-10,Publicidad,3846,Polanco
+2023-11-12,Agua,3252,Roma
+2023-11-12,Agua,3451,Condesa
+2023-11-12,Agua,1643,Polanco
+2023-11-15,Limpieza,5360,Condesa
+2023-11-15,Limpieza,5922,Roma
+2023-11-15,Limpieza,3486,Polanco
+2023-11-18,Mantenimiento de equipo,4646,Roma
+2023-11-18,Mantenimiento de equipo,2525,Polanco
+2023-11-18,Mantenimiento de equipo,11636,Condesa
+2023-11-20,Mantenimiento de sucursal,4660,Polanco
+2023-11-20,Mantenimiento de sucursal,3352,Roma
+2023-11-20,Mantenimiento de sucursal,3326,Condesa
+2023-11-22,Software administrativo,5559,Roma
+2023-11-22,Software administrativo,5085,Condesa
+2023-11-22,Software administrativo,5703,Polanco
+2023-11-25,Contabilidad,6311,Condesa
+2023-11-25,Contabilidad,8518,Polanco
+2023-11-25,Contabilidad,7704,Roma
+2023-11-26,Papelería,1479,Polanco
+2023-11-26,Papelería,1836,Condesa
+2023-11-26,Papelería,1836,Roma
+2023-11-28,Pago de crédito de financiamiento,10802,Polanco
+2023-11-28,Pago de crédito de financiamiento,10984,Roma
+2023-11-28,Pago de crédito de financiamiento,11052,Condesa
+2023-12-01,Nómina,41220,Roma
+2023-12-01,Renta,63392,Roma
+2023-12-01,Renta,58128,Condesa
+2023-12-01,Nómina,37212,Condesa
+2023-12-01,Nómina,38014,Polanco
+2023-12-01,Renta,48462,Polanco
+2023-12-02,Microsoft 365,2200,Roma
+2023-12-02,Microsoft 365,2200,Condesa
+2023-12-02,Microsoft 365,2200,Polanco
+2023-12-03,Internet,1329,Roma
+2023-12-03,Internet,1047,Condesa
+2023-12-03,Internet,1491,Polanco
+2023-12-05,Luz,10519,Polanco
+2023-12-05,Luz,8680,Roma
+2023-12-05,Luz,9807,Condesa
+2023-12-10,Publicidad,4065,Polanco
+2023-12-10,Publicidad,4346,Roma
+2023-12-10,Publicidad,4272,Condesa
+2023-12-12,Agua,2779,Polanco
+2023-12-12,Agua,1726,Roma
+2023-12-12,Agua,1840,Condesa
+2023-12-15,Limpieza,4656,Polanco
+2023-12-15,Limpieza,3595,Roma
+2023-12-15,Limpieza,5009,Condesa
+2023-12-18,Mantenimiento de equipo,2423,Polanco
+2023-12-18,Mantenimiento de equipo,11211,Condesa
+2023-12-18,Mantenimiento de equipo,8308,Roma
+2023-12-20,Mantenimiento de sucursal,7610,Condesa
+2023-12-20,Mantenimiento de sucursal,7727,Polanco
+2023-12-20,Mantenimiento de sucursal,5184,Roma
+2023-12-22,Software administrativo,5454,Roma
+2023-12-22,Software administrativo,5687,Condesa
+2023-12-22,Software administrativo,5670,Polanco
+2023-12-25,Contabilidad,6196,Polanco
+2023-12-25,Contabilidad,7843,Roma
+2023-12-25,Contabilidad,7084,Condesa
+2023-12-26,Papelería,1127,Roma
+2023-12-26,Papelería,1551,Condesa
+2023-12-26,Papelería,1004,Polanco
+2023-12-28,Pago de crédito de financiamiento,11998,Roma
+2023-12-28,Pago de crédito de financiamiento,13083,Condesa
+2023-12-28,Pago de crédito de financiamiento,9797,Polanco
+2024-01-01,Nómina,44348,Condesa
+2024-01-01,Renta,57354,Condesa
+2024-01-01,Renta,58358,Roma
+2024-01-01,Renta,57938,Polanco
+2024-01-01,Nómina,48882,Roma
+2024-01-01,Nómina,45424,Polanco
+2024-01-02,Microsoft 365,2200,Polanco
+2024-01-02,Microsoft 365,2200,Roma
+2024-01-02,Microsoft 365,2200,Condesa
+2024-01-03,Internet,997,Polanco
+2024-01-03,Internet,1242,Roma
+2024-01-03,Internet,1228,Condesa
+2024-01-05,Luz,8013,Roma
+2024-01-05,Luz,8018,Condesa
+2024-01-05,Luz,7219,Polanco
+2024-01-10,Publicidad,6753,Condesa
+2024-01-10,Publicidad,6257,Roma
+2024-01-10,Publicidad,6999,Polanco
+2024-01-12,Agua,1504,Polanco
+2024-01-12,Agua,3488,Condesa
+2024-01-12,Agua,2960,Roma
+2024-01-15,Limpieza,5023,Condesa
+2024-01-15,Limpieza,3019,Polanco
+2024-01-15,Limpieza,3929,Roma
+2024-01-18,Mantenimiento de equipo,3011,Roma
+2024-01-18,Mantenimiento de equipo,2357,Condesa
+2024-01-18,Mantenimiento de equipo,2968,Polanco
+2024-01-20,Mantenimiento de sucursal,6539,Condesa
+2024-01-20,Mantenimiento de sucursal,4778,Roma
+2024-01-20,Mantenimiento de sucursal,4726,Polanco
+2024-01-22,Software administrativo,3648,Polanco
+2024-01-22,Software administrativo,4004,Condesa
+2024-01-22,Software administrativo,4378,Roma
+2024-01-25,Contabilidad,8212,Polanco
+2024-01-25,Contabilidad,6866,Roma
+2024-01-25,Contabilidad,6782,Condesa
+2024-01-26,Papelería,1710,Polanco
+2024-01-26,Papelería,1652,Roma
+2024-01-26,Papelería,2074,Condesa
+2024-01-28,Pago de crédito de financiamiento,8219,Roma
+2024-01-28,Pago de crédito de financiamiento,10036,Polanco
+2024-01-28,Pago de crédito de financiamiento,8790,Condesa
+2024-02-01,Renta,46754,Polanco
+2024-02-01,Renta,59146,Condesa
+2024-02-01,Nómina,44634,Condesa
+2024-02-01,Nómina,47047,Polanco
+2024-02-01,Nómina,46694,Roma
+2024-02-01,Renta,41479,Roma
+2024-02-02,Microsoft 365,2200,Polanco
+2024-02-02,Microsoft 365,2200,Roma
+2024-02-02,Microsoft 365,2200,Condesa
+2024-02-03,Internet,1173,Polanco
+2024-02-03,Internet,1052,Roma
+2024-02-03,Internet,1320,Condesa
+2024-02-05,Luz,6953,Roma
+2024-02-05,Luz,7118,Polanco
+2024-02-05,Luz,9293,Condesa
+2024-02-10,Publicidad,7326,Polanco
+2024-02-10,Publicidad,6987,Condesa
+2024-02-10,Publicidad,7032,Roma
+2024-02-12,Agua,1861,Condesa
+2024-02-12,Agua,2956,Polanco
+2024-02-12,Agua,1751,Roma
+2024-02-15,Limpieza,5301,Condesa
+2024-02-15,Limpieza,4988,Polanco
+2024-02-15,Limpieza,3208,Roma
+2024-02-18,Mantenimiento de equipo,10246,Condesa
+2024-02-18,Mantenimiento de equipo,11432,Polanco
+2024-02-18,Mantenimiento de equipo,8927,Roma
+2024-02-20,Mantenimiento de sucursal,7408,Polanco
+2024-02-20,Mantenimiento de sucursal,7920,Condesa
+2024-02-20,Mantenimiento de sucursal,5058,Roma
+2024-02-22,Software administrativo,4111,Polanco
+2024-02-22,Software administrativo,3665,Roma
+2024-02-22,Software administrativo,4852,Condesa
+2024-02-25,Contabilidad,8068,Condesa
+2024-02-25,Contabilidad,8670,Polanco
+2024-02-25,Contabilidad,6820,Roma
+2024-02-26,Papelería,1567,Polanco
+2024-02-26,Papelería,2043,Roma
+2024-02-26,Papelería,1425,Condesa
+2024-02-28,Pago de crédito de financiamiento,7680,Condesa
+2024-02-28,Pago de crédito de financiamiento,7255,Polanco
+2024-02-28,Pago de crédito de financiamiento,11311,Roma
+2024-03-01,Renta,67404,Condesa
+2024-03-01,Nómina,49861,Roma
+2024-03-01,Renta,67941,Roma
+2024-03-01,Nómina,47113,Condesa
+2024-03-01,Nómina,49074,Polanco
+2024-03-01,Renta,50571,Polanco
+2024-03-02,Microsoft 365,2200,Polanco
+2024-03-02,Microsoft 365,2200,Condesa
+2024-03-02,Microsoft 365,2200,Roma
+2024-03-03,Internet,1391,Roma
+2024-03-03,Internet,1473,Condesa
+2024-03-03,Internet,1092,Polanco
+2024-03-05,Luz,9808,Polanco
+2024-03-05,Luz,10649,Roma
+2024-03-05,Luz,10752,Condesa
+2024-03-10,Publicidad,6993,Polanco
+2024-03-10,Publicidad,7304,Condesa
+2024-03-10,Publicidad,6259,Roma
+2024-03-12,Agua,2866,Condesa
+2024-03-12,Agua,1792,Polanco
+2024-03-12,Agua,2341,Roma
+2024-03-15,Limpieza,5977,Condesa
+2024-03-15,Limpieza,4452,Polanco
+2024-03-15,Limpieza,4670,Roma
+2024-03-18,Mantenimiento de equipo,5987,Condesa
+2024-03-18,Mantenimiento de equipo,11668,Polanco
+2024-03-18,Mantenimiento de equipo,7270,Roma
+2024-03-20,Mantenimiento de sucursal,2951,Polanco
+2024-03-20,Mantenimiento de sucursal,7962,Condesa
+2024-03-20,Mantenimiento de sucursal,4759,Roma
+2024-03-22,Software administrativo,5261,Polanco
+2024-03-22,Software administrativo,5483,Condesa
+2024-03-22,Software administrativo,5324,Roma
+2024-03-25,Contabilidad,8001,Roma
+2024-03-25,Contabilidad,8726,Condesa
+2024-03-25,Contabilidad,7839,Polanco
+2024-03-26,Papelería,1814,Polanco
+2024-03-26,Papelería,1550,Roma
+2024-03-26,Papelería,937,Condesa
+2024-03-28,Pago de crédito de financiamiento,6653,Condesa
+2024-03-28,Pago de crédito de financiamiento,11019,Polanco
+2024-03-28,Pago de crédito de financiamiento,11556,Roma
+2024-04-01,Nómina,44319,Roma
+2024-04-01,Renta,58292,Roma
+2024-04-01,Nómina,45439,Condesa
+2024-04-01,Nómina,48920,Polanco
+2024-04-01,Renta,53003,Polanco
+2024-04-01,Renta,42007,Condesa
+2024-04-02,Microsoft 365,2200,Condesa
+2024-04-02,Microsoft 365,2200,Roma
+2024-04-02,Microsoft 365,2200,Polanco
+2024-04-03,Internet,1231,Roma
+2024-04-03,Internet,1061,Condesa
+2024-04-03,Internet,1406,Polanco
+2024-04-05,Luz,6597,Roma
+2024-04-05,Luz,8808,Polanco
+2024-04-05,Luz,7868,Condesa
+2024-04-10,Publicidad,6502,Condesa
+2024-04-10,Publicidad,6952,Roma
+2024-04-10,Publicidad,6469,Polanco
+2024-04-12,Agua,2483,Polanco
+2024-04-12,Agua,3124,Condesa
+2024-04-12,Agua,1504,Roma
+2024-04-15,Limpieza,3241,Condesa
+2024-04-15,Limpieza,5601,Roma
+2024-04-15,Limpieza,3002,Polanco
+2024-04-18,Mantenimiento de equipo,3750,Roma
+2024-04-18,Mantenimiento de equipo,9173,Polanco
+2024-04-18,Mantenimiento de equipo,2765,Condesa
+2024-04-20,Mantenimiento de sucursal,6395,Roma
+2024-04-20,Mantenimiento de sucursal,4904,Condesa
+2024-04-20,Mantenimiento de sucursal,3405,Polanco
+2024-04-22,Software administrativo,4685,Roma
+2024-04-22,Software administrativo,3995,Condesa
+2024-04-22,Software administrativo,4137,Polanco
+2024-04-25,Contabilidad,8609,Polanco
+2024-04-25,Contabilidad,5823,Condesa
+2024-04-25,Contabilidad,8802,Roma
+2024-04-26,Papelería,1003,Condesa
+2024-04-26,Papelería,1259,Roma
+2024-04-26,Papelería,1717,Polanco
+2024-04-28,Pago de crédito de financiamiento,6218,Roma
+2024-04-28,Pago de crédito de financiamiento,12287,Polanco
+2024-04-28,Pago de crédito de financiamiento,10467,Condesa
+2024-05-01,Nómina,49121,Roma
+2024-05-01,Renta,64083,Roma
+2024-05-01,Renta,67793,Polanco
+2024-05-01,Nómina,44708,Polanco
+2024-05-01,Renta,63615,Condesa
+2024-05-01,Nómina,47998,Condesa
+2024-05-02,Microsoft 365,2200,Polanco
+2024-05-02,Microsoft 365,2200,Condesa
+2024-05-02,Microsoft 365,2200,Roma
+2024-05-03,Internet,1348,Polanco
+2024-05-03,Internet,1379,Roma
+2024-05-03,Internet,924,Condesa
+2024-05-05,Luz,5840,Roma
+2024-05-05,Luz,5283,Polanco
+2024-05-05,Luz,10632,Condesa
+2024-05-10,Publicidad,6191,Polanco
+2024-05-10,Publicidad,6392,Condesa
+2024-05-10,Publicidad,6585,Roma
+2024-05-12,Agua,1936,Roma
+2024-05-12,Agua,2548,Condesa
+2024-05-12,Agua,2212,Polanco
+2024-05-15,Limpieza,5243,Condesa
+2024-05-15,Limpieza,4334,Roma
+2024-05-15,Limpieza,4277,Polanco
+2024-05-18,Mantenimiento de equipo,3649,Condesa
+2024-05-18,Mantenimiento de equipo,2151,Roma
+2024-05-18,Mantenimiento de equipo,6039,Polanco
+2024-05-20,Mantenimiento de sucursal,6490,Condesa
+2024-05-20,Mantenimiento de sucursal,3088,Polanco
+2024-05-20,Mantenimiento de sucursal,5862,Roma
+2024-05-22,Software administrativo,5167,Condesa
+2024-05-22,Software administrativo,5123,Polanco
+2024-05-22,Software administrativo,4710,Roma
+2024-05-25,Contabilidad,6891,Condesa
+2024-05-25,Contabilidad,5730,Roma
+2024-05-25,Contabilidad,7622,Polanco
+2024-05-26,Papelería,1614,Condesa
+2024-05-26,Papelería,1739,Roma
+2024-05-26,Papelería,1275,Polanco
+2024-05-28,Pago de crédito de financiamiento,12275,Polanco
+2024-05-28,Pago de crédito de financiamiento,7717,Roma
+2024-05-28,Pago de crédito de financiamiento,7479,Condesa
+2024-06-01,Renta,55315,Condesa
+2024-06-01,Nómina,49943,Condesa
+2024-06-01,Renta,66068,Polanco
+2024-06-01,Nómina,49149,Polanco
+2024-06-01,Renta,50438,Roma
+2024-06-01,Nómina,43879,Roma
+2024-06-02,Microsoft 365,2200,Polanco
+2024-06-02,Microsoft 365,2200,Condesa
+2024-06-02,Microsoft 365,2200,Roma
+2024-06-03,Internet,1424,Condesa
+2024-06-03,Internet,1422,Roma
+2024-06-03,Internet,1259,Polanco
+2024-06-05,Luz,6290,Condesa
+2024-06-05,Luz,7531,Roma
+2024-06-05,Luz,5268,Polanco
+2024-06-10,Publicidad,7308,Condesa
+2024-06-10,Publicidad,6884,Polanco
+2024-06-10,Publicidad,7327,Roma
+2024-06-12,Agua,1878,Polanco
+2024-06-12,Agua,1591,Condesa
+2024-06-12,Agua,2058,Roma
+2024-06-15,Limpieza,4609,Polanco
+2024-06-15,Limpieza,5793,Condesa
+2024-06-15,Limpieza,4976,Roma
+2024-06-18,Mantenimiento de equipo,3059,Polanco
+2024-06-18,Mantenimiento de equipo,5345,Condesa
+2024-06-18,Mantenimiento de equipo,4066,Roma
+2024-06-20,Mantenimiento de sucursal,6070,Condesa
+2024-06-20,Mantenimiento de sucursal,5248,Roma
+2024-06-20,Mantenimiento de sucursal,4446,Polanco
+2024-06-22,Software administrativo,3587,Condesa
+2024-06-22,Software administrativo,5214,Roma
+2024-06-22,Software administrativo,4554,Polanco
+2024-06-25,Contabilidad,6600,Condesa
+2024-06-25,Contabilidad,5221,Roma
+2024-06-25,Contabilidad,5120,Polanco
+2024-06-26,Papelería,1379,Roma
+2024-06-26,Papelería,1020,Condesa
+2024-06-26,Papelería,2077,Polanco
+2024-06-28,Pago de crédito de financiamiento,11147,Polanco
+2024-06-28,Pago de crédito de financiamiento,9498,Condesa
+2024-06-28,Pago de crédito de financiamiento,10193,Roma
+2024-07-01,Renta,61495,Condesa
+2024-07-01,Renta,47250,Polanco
+2024-07-01,Nómina,45606,Polanco
+2024-07-01,Nómina,45679,Condesa
+2024-07-01,Nómina,45187,Roma
+2024-07-01,Renta,43066,Roma
+2024-07-02,Microsoft 365,2200,Polanco
+2024-07-02,Microsoft 365,2200,Roma
+2024-07-02,Microsoft 365,2200,Condesa
+2024-07-03,Internet,1242,Polanco
+2024-07-03,Internet,904,Condesa
+2024-07-03,Internet,1038,Roma
+2024-07-05,Luz,6832,Polanco
+2024-07-05,Luz,7656,Condesa
+2024-07-05,Luz,6267,Roma
+2024-07-10,Publicidad,6312,Condesa
+2024-07-10,Publicidad,6935,Polanco
+2024-07-10,Publicidad,7057,Roma
+2024-07-12,Agua,2800,Condesa
+2024-07-12,Agua,3435,Polanco
+2024-07-12,Agua,2876,Roma
+2024-07-15,Limpieza,3732,Condesa
+2024-07-15,Limpieza,5050,Polanco
+2024-07-15,Limpieza,3227,Roma
+2024-07-18,Mantenimiento de equipo,6550,Condesa
+2024-07-18,Mantenimiento de equipo,9116,Polanco
+2024-07-18,Mantenimiento de equipo,9077,Roma
+2024-07-20,Mantenimiento de sucursal,3784,Condesa
+2024-07-20,Mantenimiento de sucursal,5644,Roma
+2024-07-20,Mantenimiento de sucursal,3100,Polanco
+2024-07-22,Software administrativo,5410,Polanco
+2024-07-22,Software administrativo,3966,Condesa
+2024-07-22,Software administrativo,5298,Roma
+2024-07-25,Contabilidad,7253,Polanco
+2024-07-25,Contabilidad,6783,Roma
+2024-07-25,Contabilidad,7832,Condesa
+2024-07-26,Papelería,2163,Polanco
+2024-07-26,Papelería,1643,Condesa
+2024-07-26,Papelería,1631,Roma
+2024-07-28,Pago de crédito de financiamiento,9527,Roma
+2024-07-28,Pago de crédito de financiamiento,6131,Polanco
+2024-07-28,Pago de crédito de financiamiento,12173,Condesa
+2024-08-01,Nómina,46328,Roma
+2024-08-01,Renta,53394,Polanco
+2024-08-01,Nómina,44425,Polanco
+2024-08-01,Renta,65420,Condesa
+2024-08-01,Nómina,46430,Condesa
+2024-08-01,Renta,58154,Roma
+2024-08-02,Microsoft 365,2200,Polanco
+2024-08-02,Microsoft 365,2200,Roma
+2024-08-02,Microsoft 365,2200,Condesa
+2024-08-03,Internet,1354,Condesa
+2024-08-03,Internet,1012,Polanco
+2024-08-03,Internet,969,Roma
+2024-08-05,Luz,9570,Condesa
+2024-08-05,Luz,6964,Roma
+2024-08-05,Luz,7582,Polanco
+2024-08-10,Publicidad,7301,Roma
+2024-08-10,Publicidad,7009,Condesa
+2024-08-10,Publicidad,6158,Polanco
+2024-08-12,Agua,2563,Roma
+2024-08-12,Agua,3369,Condesa
+2024-08-12,Agua,2402,Polanco
+2024-08-15,Limpieza,5676,Condesa
+2024-08-15,Limpieza,3131,Roma
+2024-08-15,Limpieza,3045,Polanco
+2024-08-18,Mantenimiento de equipo,7698,Polanco
+2024-08-18,Mantenimiento de equipo,7454,Roma
+2024-08-18,Mantenimiento de equipo,11176,Condesa
+2024-08-20,Mantenimiento de sucursal,6211,Roma
+2024-08-20,Mantenimiento de sucursal,5652,Condesa
+2024-08-20,Mantenimiento de sucursal,7952,Polanco
+2024-08-22,Software administrativo,4996,Polanco
+2024-08-22,Software administrativo,4418,Roma
+2024-08-22,Software administrativo,4714,Condesa
+2024-08-25,Contabilidad,6461,Condesa
+2024-08-25,Contabilidad,5765,Roma
+2024-08-25,Contabilidad,7038,Polanco
+2024-08-26,Papelería,1480,Condesa
+2024-08-26,Papelería,1037,Roma
+2024-08-26,Papelería,817,Polanco
+2024-08-28,Pago de crédito de financiamiento,8442,Roma
+2024-08-28,Pago de crédito de financiamiento,9977,Polanco
+2024-08-28,Pago de crédito de financiamiento,10066,Condesa
+2024-09-01,Nómina,46602,Polanco
+2024-09-01,Renta,48077,Polanco
+2024-09-01,Renta,59224,Condesa
+2024-09-01,Nómina,48851,Condesa
+2024-09-01,Renta,60411,Roma
+2024-09-01,Nómina,44614,Roma
+2024-09-02,Microsoft 365,2200,Polanco
+2024-09-02,Microsoft 365,2200,Condesa
+2024-09-02,Microsoft 365,2200,Roma
+2024-09-03,Internet,1221,Polanco
+2024-09-03,Internet,1496,Condesa
+2024-09-03,Internet,1282,Roma
+2024-09-05,Luz,8529,Polanco
+2024-09-05,Luz,10723,Condesa
+2024-09-05,Luz,5295,Roma
+2024-09-10,Publicidad,6728,Condesa
+2024-09-10,Publicidad,6033,Polanco
+2024-09-10,Publicidad,6749,Roma
+2024-09-12,Agua,2284,Polanco
+2024-09-12,Agua,2388,Condesa
+2024-09-12,Agua,2588,Roma
+2024-09-15,Limpieza,5018,Roma
+2024-09-15,Limpieza,5654,Polanco
+2024-09-15,Limpieza,5686,Condesa
+2024-09-18,Mantenimiento de equipo,4839,Condesa
+2024-09-18,Mantenimiento de equipo,5065,Polanco
+2024-09-18,Mantenimiento de equipo,6373,Roma
+2024-09-20,Mantenimiento de sucursal,5242,Polanco
+2024-09-20,Mantenimiento de sucursal,5104,Condesa
+2024-09-20,Mantenimiento de sucursal,4869,Roma
+2024-09-22,Software administrativo,4916,Polanco
+2024-09-22,Software administrativo,5799,Condesa
+2024-09-22,Software administrativo,3879,Roma
+2024-09-25,Contabilidad,5257,Polanco
+2024-09-25,Contabilidad,6626,Condesa
+2024-09-25,Contabilidad,5518,Roma
+2024-09-26,Papelería,1549,Polanco
+2024-09-26,Papelería,1191,Roma
+2024-09-26,Papelería,2022,Condesa
+2024-09-28,Pago de crédito de financiamiento,7643,Condesa
+2024-09-28,Pago de crédito de financiamiento,6954,Polanco
+2024-09-28,Pago de crédito de financiamiento,9753,Roma
+2024-10-01,Renta,42192,Condesa
+2024-10-01,Nómina,45117,Condesa
+2024-10-01,Renta,66225,Roma
+2024-10-01,Nómina,47367,Polanco
+2024-10-01,Nómina,47286,Roma
+2024-10-01,Renta,53864,Polanco
+2024-10-02,Microsoft 365,2200,Polanco
+2024-10-02,Microsoft 365,2200,Roma
+2024-10-02,Microsoft 365,2200,Condesa
+2024-10-03,Internet,1063,Polanco
+2024-10-03,Internet,1357,Roma
+2024-10-03,Internet,1076,Condesa
+2024-10-05,Luz,10691,Roma
+2024-10-05,Luz,5917,Polanco
+2024-10-05,Luz,8721,Condesa
+2024-10-10,Publicidad,7269,Roma
+2024-10-10,Publicidad,6263,Polanco
+2024-10-10,Publicidad,7070,Condesa
+2024-10-12,Agua,2047,Condesa
+2024-10-12,Agua,2050,Polanco
+2024-10-12,Agua,1654,Roma
+2024-10-15,Limpieza,4028,Condesa
+2024-10-15,Limpieza,5396,Roma
+2024-10-15,Limpieza,4707,Polanco
+2024-10-18,Mantenimiento de equipo,5289,Roma
+2024-10-18,Mantenimiento de equipo,7476,Condesa
+2024-10-18,Mantenimiento de equipo,3461,Polanco
+2024-10-20,Mantenimiento de sucursal,5749,Polanco
+2024-10-20,Mantenimiento de sucursal,6388,Roma
+2024-10-20,Mantenimiento de sucursal,6841,Condesa
+2024-10-22,Software administrativo,3581,Condesa
+2024-10-22,Software administrativo,5633,Roma
+2024-10-22,Software administrativo,4635,Polanco
+2024-10-25,Contabilidad,7740,Condesa
+2024-10-25,Contabilidad,6025,Roma
+2024-10-25,Contabilidad,7798,Polanco
+2024-10-26,Papelería,935,Condesa
+2024-10-26,Papelería,2004,Roma
+2024-10-26,Papelería,1571,Polanco
+2024-10-28,Pago de crédito de financiamiento,9654,Roma
+2024-10-28,Pago de crédito de financiamiento,6840,Polanco
+2024-10-28,Pago de crédito de financiamiento,12820,Condesa
+2024-11-01,Renta,40079,Condesa
+2024-11-01,Nómina,45565,Polanco
+2024-11-01,Nómina,44109,Condesa
+2024-11-01,Renta,41427,Polanco
+2024-11-01,Nómina,45953,Roma
+2024-11-01,Renta,44872,Roma
+2024-11-02,Microsoft 365,2200,Polanco
+2024-11-02,Microsoft 365,2200,Roma
+2024-11-02,Microsoft 365,2200,Condesa
+2024-11-03,Internet,1468,Polanco
+2024-11-03,Internet,1341,Roma
+2024-11-03,Internet,1009,Condesa
+2024-11-05,Luz,7747,Roma
+2024-11-05,Luz,9924,Polanco
+2024-11-05,Luz,7209,Condesa
+2024-11-10,Publicidad,7172,Polanco
+2024-11-10,Publicidad,6704,Condesa
+2024-11-10,Publicidad,6331,Roma
+2024-11-12,Agua,1721,Condesa
+2024-11-12,Agua,2848,Polanco
+2024-11-12,Agua,3163,Roma
+2024-11-15,Limpieza,3687,Condesa
+2024-11-15,Limpieza,4028,Polanco
+2024-11-15,Limpieza,3578,Roma
+2024-11-18,Mantenimiento de equipo,11549,Condesa
+2024-11-18,Mantenimiento de equipo,6034,Polanco
+2024-11-18,Mantenimiento de equipo,4089,Roma
+2024-11-20,Mantenimiento de sucursal,6165,Polanco
+2024-11-20,Mantenimiento de sucursal,6126,Condesa
+2024-11-20,Mantenimiento de sucursal,4643,Roma
+2024-11-22,Software administrativo,4737,Polanco
+2024-11-22,Software administrativo,5341,Roma
+2024-11-22,Software administrativo,3796,Condesa
+2024-11-25,Contabilidad,7520,Condesa
+2024-11-25,Contabilidad,7268,Polanco
+2024-11-25,Contabilidad,5160,Roma
+2024-11-26,Papelería,2164,Polanco
+2024-11-26,Papelería,2185,Roma
+2024-11-26,Papelería,1943,Condesa
+2024-11-28,Pago de crédito de financiamiento,11846,Condesa
+2024-11-28,Pago de crédito de financiamiento,13076,Polanco
+2024-11-28,Pago de crédito de financiamiento,11571,Roma
+2024-12-01,Renta,50604,Condesa
+2024-12-01,Nómina,45526,Polanco
+2024-12-01,Renta,40526,Polanco
+2024-12-01,Nómina,43481,Condesa
+2024-12-01,Renta,66828,Roma
+2024-12-01,Nómina,49291,Roma
+2024-12-02,Microsoft 365,2200,Roma
+2024-12-02,Microsoft 365,2200,Polanco
+2024-12-02,Microsoft 365,2200,Condesa
+2024-12-03,Internet,1097,Polanco
+2024-12-03,Internet,1427,Condesa
+2024-12-03,Internet,1022,Roma
+2024-12-05,Luz,9438,Condesa
+2024-12-05,Luz,6774,Polanco
+2024-12-05,Luz,6112,Roma
+2024-12-10,Publicidad,7075,Condesa
+2024-12-10,Publicidad,6376,Polanco
+2024-12-10,Publicidad,7192,Roma
+2024-12-12,Agua,3218,Polanco
+2024-12-12,Agua,2745,Condesa
+2024-12-12,Agua,2555,Roma
+2024-12-15,Limpieza,3450,Roma
+2024-12-15,Limpieza,3103,Polanco
+2024-12-15,Limpieza,3048,Condesa
+2024-12-18,Mantenimiento de equipo,7401,Condesa
+2024-12-18,Mantenimiento de equipo,7569,Polanco
+2024-12-18,Mantenimiento de equipo,9987,Roma
+2024-12-20,Mantenimiento de sucursal,2773,Polanco
+2024-12-20,Mantenimiento de sucursal,7860,Condesa
+2024-12-20,Mantenimiento de sucursal,7427,Roma
+2024-12-22,Software administrativo,5764,Polanco
+2024-12-22,Software administrativo,5580,Condesa
+2024-12-22,Software administrativo,4522,Roma
+2024-12-25,Contabilidad,8435,Polanco
+2024-12-25,Contabilidad,5171,Condesa
+2024-12-25,Contabilidad,5033,Roma
+2024-12-26,Papelería,1030,Polanco
+2024-12-26,Papelería,829,Roma
+2024-12-26,Papelería,1919,Condesa
+2024-12-28,Pago de crédito de financiamiento,7318,Condesa
+2024-12-28,Pago de crédito de financiamiento,6526,Polanco
+2024-12-28,Pago de crédito de financiamiento,11692,Roma
+2025-01-01,Renta,65490,Condesa
+2025-01-01,Nómina,51230,Polanco
+2025-01-01,Nómina,51731,Condesa
+2025-01-01,Renta,45267,Polanco
+2025-01-01,Nómina,55555,Roma
+2025-01-01,Renta,52342,Roma
+2025-01-02,Microsoft 365,2200,Polanco
+2025-01-02,Microsoft 365,2200,Roma
+2025-01-02,Microsoft 365,2200,Condesa
+2025-01-03,Internet,1197,Polanco
+2025-01-03,Internet,1126,Roma
+2025-01-03,Internet,1141,Condesa
+2025-01-05,Luz,8523,Polanco
+2025-01-05,Luz,7795,Roma
+2025-01-05,Luz,5561,Condesa
+2025-01-10,Publicidad,10914,Roma
+2025-01-10,Publicidad,10925,Polanco
+2025-01-10,Publicidad,9194,Condesa
+2025-01-12,Agua,2936,Condesa
+2025-01-12,Agua,2561,Roma
+2025-01-12,Agua,3198,Polanco
+2025-01-15,Limpieza,4699,Condesa
+2025-01-15,Limpieza,4728,Polanco
+2025-01-15,Limpieza,5951,Roma
+2025-01-18,Mantenimiento de equipo,11312,Condesa
+2025-01-18,Mantenimiento de equipo,6231,Polanco
+2025-01-18,Mantenimiento de equipo,9079,Roma
+2025-01-20,Mantenimiento de sucursal,4985,Condesa
+2025-01-20,Mantenimiento de sucursal,3681,Polanco
+2025-01-20,Mantenimiento de sucursal,7344,Roma
+2025-01-22,Software administrativo,5212,Condesa
+2025-01-22,Software administrativo,5917,Roma
+2025-01-22,Software administrativo,5571,Polanco
+2025-01-25,Contabilidad,5470,Polanco
+2025-01-25,Contabilidad,5090,Condesa
+2025-01-25,Contabilidad,5155,Roma
+2025-01-26,Papelería,1080,Condesa
+2025-01-26,Papelería,2099,Roma
+2025-01-26,Papelería,1105,Polanco
+2025-01-28,Pago de crédito de financiamiento,8013,Roma
+2025-01-28,Pago de crédito de financiamiento,9787,Polanco
+2025-01-28,Pago de crédito de financiamiento,12950,Condesa
+2025-02-01,Renta,67762,Condesa
+2025-02-01,Nómina,56052,Polanco
+2025-02-01,Nómina,51226,Condesa
+2025-02-01,Renta,53672,Polanco
+2025-02-01,Renta,52993,Roma
+2025-02-01,Nómina,53115,Roma
+2025-02-02,Microsoft 365,2200,Polanco
+2025-02-02,Microsoft 365,2200,Condesa
+2025-02-02,Microsoft 365,2200,Roma
+2025-02-03,Internet,1076,Condesa
+2025-02-03,Internet,1262,Polanco
+2025-02-03,Internet,1062,Roma
+2025-02-05,Luz,5422,Roma
+2025-02-05,Luz,8184,Condesa
+2025-02-05,Luz,9058,Polanco
+2025-02-10,Publicidad,10430,Polanco
+2025-02-10,Publicidad,9008,Condesa
+2025-02-10,Publicidad,9914,Roma
+2025-02-12,Agua,3285,Polanco
+2025-02-12,Agua,2685,Condesa
+2025-02-12,Agua,3156,Roma
+2025-02-15,Limpieza,3491,Polanco
+2025-02-15,Limpieza,4095,Roma
+2025-02-15,Limpieza,3608,Condesa
+2025-02-18,Mantenimiento de equipo,8874,Polanco
+2025-02-18,Mantenimiento de equipo,2007,Condesa
+2025-02-18,Mantenimiento de equipo,10343,Roma
+2025-02-20,Mantenimiento de sucursal,7087,Roma
+2025-02-20,Mantenimiento de sucursal,4504,Condesa
+2025-02-20,Mantenimiento de sucursal,5700,Polanco
+2025-02-22,Software administrativo,4417,Condesa
+2025-02-22,Software administrativo,4951,Polanco
+2025-02-22,Software administrativo,4579,Roma
+2025-02-25,Contabilidad,7011,Polanco
+2025-02-25,Contabilidad,5323,Condesa
+2025-02-25,Contabilidad,7395,Roma
+2025-02-26,Papelería,1457,Roma
+2025-02-26,Papelería,1849,Polanco
+2025-02-26,Papelería,1331,Condesa
+2025-02-28,Pago de crédito de financiamiento,12540,Roma
+2025-02-28,Pago de crédito de financiamiento,10726,Condesa
+2025-02-28,Pago de crédito de financiamiento,12900,Polanco
+2025-03-01,Renta,49525,Condesa
+2025-03-01,Nómina,56489,Condesa
+2025-03-01,Nómina,52132,Polanco
+2025-03-01,Nómina,51581,Roma
+2025-03-01,Renta,65194,Polanco
+2025-03-01,Renta,46916,Roma
+2025-03-02,Microsoft 365,2200,Polanco
+2025-03-02,Microsoft 365,2200,Condesa
+2025-03-02,Microsoft 365,2200,Roma
+2025-03-03,Internet,923,Roma
+2025-03-03,Internet,1002,Condesa
+2025-03-03,Internet,1030,Polanco
+2025-03-05,Luz,6852,Polanco
+2025-03-05,Luz,8259,Condesa
+2025-03-05,Luz,7338,Roma
+2025-03-10,Publicidad,9045,Polanco
+2025-03-10,Publicidad,9541,Condesa
+2025-03-10,Publicidad,10959,Roma
+2025-03-12,Agua,1802,Polanco
+2025-03-12,Agua,2777,Roma
+2025-03-12,Agua,1580,Condesa
+2025-03-15,Limpieza,4110,Polanco
+2025-03-15,Limpieza,4414,Roma
+2025-03-15,Limpieza,5164,Condesa
+2025-03-18,Mantenimiento de equipo,11053,Polanco
+2025-03-18,Mantenimiento de equipo,2939,Roma
+2025-03-18,Mantenimiento de equipo,8317,Condesa
+2025-03-20,Mantenimiento de sucursal,3681,Condesa
+2025-03-20,Mantenimiento de sucursal,4983,Roma
+2025-03-20,Mantenimiento de sucursal,6507,Polanco
+2025-03-22,Software administrativo,5808,Condesa
+2025-03-22,Software administrativo,4463,Roma
+2025-03-22,Software administrativo,5079,Polanco
+2025-03-25,Contabilidad,8594,Condesa
+2025-03-25,Contabilidad,8797,Roma
+2025-03-25,Contabilidad,6043,Polanco
+2025-03-26,Papelería,992,Polanco
+2025-03-26,Papelería,1826,Roma
+2025-03-26,Papelería,1461,Condesa
+2025-03-28,Pago de crédito de financiamiento,8035,Polanco
+2025-03-28,Pago de crédito de financiamiento,8075,Condesa
+2025-03-28,Pago de crédito de financiamiento,12223,Roma
+2025-04-01,Nómina,56770,Roma
+2025-04-01,Renta,43235,Roma
+2025-04-01,Renta,64440,Condesa
+2025-04-01,Renta,52091,Polanco
+2025-04-01,Nómina,53592,Polanco
+2025-04-01,Nómina,58257,Condesa
+2025-04-02,Microsoft 365,2200,Roma
+2025-04-02,Microsoft 365,2200,Polanco
+2025-04-02,Microsoft 365,2200,Condesa
+2025-04-03,Internet,1177,Polanco
+2025-04-03,Internet,913,Condesa
+2025-04-03,Internet,1122,Roma
+2025-04-05,Luz,10634,Condesa
+2025-04-05,Luz,10189,Polanco
+2025-04-05,Luz,10484,Roma
+2025-04-10,Pago de compra de reformers,300000,Condesa
+2025-04-10,Publicidad,10631,Polanco
+2025-04-10,Publicidad,9645,Condesa
+2025-04-10,Publicidad,10732,Roma
+2025-04-12,Agua,2071,Polanco
+2025-04-12,Agua,2532,Condesa
+2025-04-12,Agua,2245,Roma
+2025-04-15,Limpieza,3576,Polanco
+2025-04-15,Limpieza,3819,Condesa
+2025-04-15,Limpieza,4487,Roma
+2025-04-18,Mantenimiento de equipo,10028,Roma
+2025-04-18,Mantenimiento de equipo,11447,Condesa
+2025-04-18,Mantenimiento de equipo,9763,Polanco
+2025-04-20,Mantenimiento de sucursal,6718,Polanco
+2025-04-20,Mantenimiento de sucursal,4510,Condesa
+2025-04-20,Mantenimiento de sucursal,4558,Roma
+2025-04-22,Software administrativo,4779,Condesa
+2025-04-22,Software administrativo,4813,Roma
+2025-04-22,Software administrativo,5672,Polanco
+2025-04-25,Contabilidad,6445,Polanco
+2025-04-25,Contabilidad,7228,Roma
+2025-04-25,Contabilidad,8622,Condesa
+2025-04-26,Papelería,874,Condesa
+2025-04-26,Papelería,1612,Roma
+2025-04-26,Papelería,1956,Polanco
+2025-04-28,Pago de crédito de financiamiento,7295,Roma
+2025-04-28,Pago de crédito de financiamiento,11658,Condesa
+2025-04-28,Pago de crédito de financiamiento,11960,Polanco
+2025-05-01,Nómina,52047,Roma
+2025-05-01,Renta,66549,Condesa
+2025-05-01,Nómina,56795,Condesa
+2025-05-01,Renta,51156,Polanco
+2025-05-01,Nómina,57700,Polanco
+2025-05-01,Renta,59317,Roma
+2025-05-02,Microsoft 365,2200,Polanco
+2025-05-02,Microsoft 365,2200,Roma
+2025-05-02,Microsoft 365,2200,Condesa
+2025-05-03,Internet,1076,Roma
+2025-05-03,Internet,1136,Polanco
+2025-05-03,Internet,1045,Condesa
+2025-05-05,Luz,5124,Roma
+2025-05-05,Luz,8755,Condesa
+2025-05-05,Luz,7083,Polanco
+2025-05-10,Publicidad,9866,Roma
+2025-05-10,Publicidad,9245,Polanco
+2025-05-10,Publicidad,9871,Condesa
+2025-05-12,Agua,1921,Polanco
+2025-05-12,Agua,1834,Condesa
+2025-05-12,Agua,2284,Roma
+2025-05-15,Limpieza,5510,Polanco
+2025-05-15,Limpieza,4527,Roma
+2025-05-15,Limpieza,3568,Condesa
+2025-05-18,Mantenimiento de equipo,11950,Polanco
+2025-05-18,Mantenimiento de equipo,5932,Condesa
+2025-05-18,Mantenimiento de equipo,8240,Roma
+2025-05-20,Mantenimiento de sucursal,7523,Roma
+2025-05-20,Mantenimiento de sucursal,5321,Polanco
+2025-05-20,Mantenimiento de sucursal,5894,Condesa
+2025-05-22,Software administrativo,4303,Roma
+2025-05-22,Software administrativo,4889,Polanco
+2025-05-22,Software administrativo,5707,Condesa
+2025-05-25,Contabilidad,5728,Roma
+2025-05-25,Contabilidad,7600,Polanco
+2025-05-25,Contabilidad,5966,Condesa
+2025-05-26,Papelería,969,Condesa
+2025-05-26,Papelería,1763,Polanco
+2025-05-26,Papelería,1558,Roma
+2025-05-28,Pago de crédito de financiamiento,13255,Roma
+2025-05-28,Pago de crédito de financiamiento,7900,Condesa
+2025-05-28,Pago de crédito de financiamiento,12127,Polanco
+2025-06-01,Renta,51890,Condesa
+2025-06-01,Nómina,54852,Condesa
+2025-06-01,Renta,49095,Polanco
+2025-06-01,Renta,45275,Roma
+2025-06-01,Nómina,53498,Polanco
+2025-06-01,Nómina,50536,Roma
+2025-06-02,Microsoft 365,2200,Polanco
+2025-06-02,Microsoft 365,2200,Condesa
+2025-06-02,Microsoft 365,2200,Roma
+2025-06-03,Internet,1037,Roma
+2025-06-03,Internet,997,Polanco
+2025-06-03,Internet,918,Condesa
+2025-06-05,Luz,9210,Roma
+2025-06-05,Luz,6093,Condesa
+2025-06-05,Luz,10263,Polanco
+2025-06-10,Publicidad,10497,Condesa
+2025-06-10,Publicidad,9563,Polanco
+2025-06-10,Publicidad,9035,Roma
+2025-06-12,Agua,2852,Condesa
+2025-06-12,Agua,2005,Polanco
+2025-06-12,Agua,3263,Roma
+2025-06-15,Limpieza,5340,Condesa
+2025-06-15,Limpieza,4861,Roma
+2025-06-15,Limpieza,5544,Polanco
+2025-06-18,Mantenimiento de equipo,3199,Polanco
+2025-06-18,Mantenimiento de equipo,10145,Roma
+2025-06-18,Mantenimiento de equipo,6690,Condesa
+2025-06-20,Mantenimiento de sucursal,2751,Polanco
+2025-06-20,Mantenimiento de sucursal,4691,Condesa
+2025-06-20,Mantenimiento de sucursal,3160,Roma
+2025-06-22,Software administrativo,5362,Condesa
+2025-06-22,Software administrativo,4388,Polanco
+2025-06-22,Software administrativo,3609,Roma
+2025-06-25,Contabilidad,5914,Condesa
+2025-06-25,Contabilidad,6722,Roma
+2025-06-25,Contabilidad,5762,Polanco
+2025-06-26,Papelería,1547,Condesa
+2025-06-26,Papelería,1066,Roma
+2025-06-26,Papelería,1288,Polanco
+2025-06-28,Pago de crédito de financiamiento,12160,Roma
+2025-06-28,Pago de crédito de financiamiento,7351,Polanco
+2025-06-28,Pago de crédito de financiamiento,13284,Condesa
+2025-07-01,Nómina,54101,Polanco
+2025-07-01,Renta,48090,Polanco
+2025-07-01,Nómina,57064,Roma
+2025-07-01,Renta,67458,Roma
+2025-07-01,Renta,61164,Condesa
+2025-07-01,Nómina,57898,Condesa
+2025-07-02,Microsoft 365,2200,Polanco
+2025-07-02,Microsoft 365,2200,Roma
+2025-07-02,Microsoft 365,2200,Condesa
+2025-07-03,Internet,1379,Polanco
+2025-07-03,Internet,1039,Condesa
+2025-07-03,Internet,1337,Roma
+2025-07-05,Luz,5423,Condesa
+2025-07-05,Luz,9569,Polanco
+2025-07-05,Luz,8839,Roma
+2025-07-10,Publicidad,9346,Polanco
+2025-07-10,Publicidad,10424,Condesa
+2025-07-10,Publicidad,10713,Roma
+2025-07-12,Agua,2804,Roma
+2025-07-12,Agua,1536,Polanco
+2025-07-12,Agua,1699,Condesa
+2025-07-15,Limpieza,3347,Polanco
+2025-07-15,Limpieza,3325,Condesa
+2025-07-15,Limpieza,3204,Roma
+2025-07-18,Mantenimiento de equipo,8955,Roma
+2025-07-18,Mantenimiento de equipo,3007,Condesa
+2025-07-18,Mantenimiento de equipo,10949,Polanco
+2025-07-20,Mantenimiento de sucursal,6161,Polanco
+2025-07-20,Mantenimiento de sucursal,4918,Condesa
+2025-07-20,Mantenimiento de sucursal,5957,Roma
+2025-07-22,Software administrativo,3506,Condesa
+2025-07-22,Software administrativo,5492,Roma
+2025-07-22,Software administrativo,5420,Polanco
+2025-07-25,Contabilidad,7914,Polanco
+2025-07-25,Contabilidad,8930,Roma
+2025-07-25,Contabilidad,7258,Condesa
+2025-07-26,Papelería,1271,Condesa
+2025-07-26,Papelería,1326,Roma
+2025-07-26,Papelería,1774,Polanco
+2025-07-28,Pago de crédito de financiamiento,11141,Roma
+2025-07-28,Pago de crédito de financiamiento,11562,Condesa
+2025-07-28,Pago de crédito de financiamiento,12781,Polanco
+2025-08-01,Renta,54611,Polanco
+2025-08-01,Renta,44388,Condesa
+2025-08-01,Nómina,52124,Condesa
+2025-08-01,Nómina,55932,Polanco
+2025-08-01,Renta,61114,Roma
+2025-08-01,Nómina,55665,Roma
+2025-08-02,Microsoft 365,2200,Condesa
+2025-08-02,Microsoft 365,2200,Polanco
+2025-08-02,Microsoft 365,2200,Roma
+2025-08-03,Internet,1127,Roma
+2025-08-03,Internet,1170,Condesa
+2025-08-03,Internet,1247,Polanco
+2025-08-05,Luz,6543,Roma
+2025-08-05,Luz,6049,Condesa
+2025-08-05,Luz,5392,Polanco
+2025-08-10,Publicidad,9329,Polanco
+2025-08-10,Publicidad,10732,Roma
+2025-08-10,Publicidad,9720,Condesa
+2025-08-12,Agua,3065,Condesa
+2025-08-12,Agua,1718,Polanco
+2025-08-12,Agua,3029,Roma
+2025-08-15,Limpieza,5696,Polanco
+2025-08-15,Limpieza,5017,Condesa
+2025-08-15,Limpieza,4157,Roma
+2025-08-18,Mantenimiento de equipo,10538,Polanco
+2025-08-18,Mantenimiento de equipo,9813,Condesa
+2025-08-18,Mantenimiento de equipo,4334,Roma
+2025-08-20,Mantenimiento de sucursal,6194,Condesa
+2025-08-20,Mantenimiento de sucursal,6805,Polanco
+2025-08-20,Mantenimiento de sucursal,3591,Roma
+2025-08-22,Software administrativo,4243,Condesa
+2025-08-22,Software administrativo,4829,Roma
+2025-08-22,Software administrativo,4910,Polanco
+2025-08-25,Contabilidad,6867,Condesa
+2025-08-25,Contabilidad,5867,Roma
+2025-08-25,Contabilidad,5764,Polanco
+2025-08-26,Papelería,990,Polanco
+2025-08-26,Papelería,1734,Condesa
+2025-08-26,Papelería,2011,Roma
+2025-08-28,Pago de crédito de financiamiento,7090,Polanco
+2025-08-28,Pago de crédito de financiamiento,8468,Roma
+2025-08-28,Pago de crédito de financiamiento,8755,Condesa
+2025-09-01,Renta,57760,Condesa
+2025-09-01,Renta,52075,Polanco
+2025-09-01,Nómina,54040,Polanco
+2025-09-01,Nómina,58014,Condesa
+2025-09-01,Nómina,54619,Roma
+2025-09-01,Renta,57246,Roma
+2025-09-02,Microsoft 365,2200,Condesa
+2025-09-02,Microsoft 365,2200,Polanco
+2025-09-02,Microsoft 365,2200,Roma
+2025-09-03,Internet,1415,Polanco
+2025-09-03,Internet,1417,Condesa
+2025-09-03,Internet,1216,Roma
+2025-09-05,Luz,8538,Roma
+2025-09-05,Luz,9866,Polanco
+2025-09-05,Luz,7439,Condesa
+2025-09-10,Publicidad,10990,Roma
+2025-09-10,Publicidad,9622,Polanco
+2025-09-10,Publicidad,9352,Condesa
+2025-09-12,Agua,3105,Condesa
+2025-09-12,Agua,3041,Polanco
+2025-09-12,Agua,1965,Roma
+2025-09-15,Limpieza,3064,Condesa
+2025-09-15,Limpieza,4944,Polanco
+2025-09-15,Limpieza,5912,Roma
+2025-09-18,Mantenimiento de equipo,6675,Condesa
+2025-09-18,Mantenimiento de equipo,2917,Polanco
+2025-09-18,Mantenimiento de equipo,8200,Roma
+2025-09-20,Mantenimiento de sucursal,6285,Condesa
+2025-09-20,Mantenimiento de sucursal,4053,Roma
+2025-09-20,Mantenimiento de sucursal,5640,Polanco
+2025-09-22,Software administrativo,5860,Polanco
+2025-09-22,Software administrativo,4856,Condesa
+2025-09-22,Software administrativo,5675,Roma
+2025-09-25,Contabilidad,8687,Condesa
+2025-09-25,Contabilidad,5943,Roma
+2025-09-25,Contabilidad,7873,Polanco
+2025-09-26,Papelería,1300,Polanco
+2025-09-26,Papelería,2081,Condesa
+2025-09-26,Papelería,1992,Roma
+2025-09-28,Pago de crédito de financiamiento,12441,Polanco
+2025-09-28,Pago de crédito de financiamiento,12420,Condesa
+2025-09-28,Pago de crédito de financiamiento,10327,Roma
+2025-10-01,Renta,47053,Polanco
+2025-10-01,Nómina,57119,Polanco
+2025-10-01,Renta,59400,Condesa
+2025-10-01,Nómina,57769,Condesa
+2025-10-01,Nómina,52910,Roma
+2025-10-01,Renta,57243,Roma
+2025-10-02,Microsoft 365,2200,Polanco
+2025-10-02,Microsoft 365,2200,Roma
+2025-10-02,Microsoft 365,2200,Condesa
+2025-10-03,Internet,1324,Polanco
+2025-10-03,Internet,1248,Roma
+2025-10-03,Internet,1196,Condesa
+2025-10-05,Luz,5642,Polanco
+2025-10-05,Luz,6977,Roma
+2025-10-05,Luz,8371,Condesa
+2025-10-10,Publicidad,10746,Polanco
+2025-10-10,Publicidad,9261,Roma
+2025-10-10,Publicidad,10492,Condesa
+2025-10-12,Agua,2411,Condesa
+2025-10-12,Agua,3281,Polanco
+2025-10-12,Agua,2808,Roma
+2025-10-15,Limpieza,5641,Condesa
+2025-10-15,Limpieza,5351,Polanco
+2025-10-15,Limpieza,3223,Roma
+2025-10-18,Mantenimiento de equipo,9409,Condesa
+2025-10-18,Mantenimiento de equipo,4461,Roma
+2025-10-18,Mantenimiento de equipo,7334,Polanco
+2025-10-20,Mantenimiento de sucursal,6803,Condesa
+2025-10-20,Mantenimiento de sucursal,7565,Polanco
+2025-10-20,Mantenimiento de sucursal,5098,Roma
+2025-10-22,Software administrativo,4690,Polanco
+2025-10-22,Software administrativo,3779,Condesa
+2025-10-22,Software administrativo,4771,Roma
+2025-10-25,Contabilidad,7129,Condesa
+2025-10-25,Contabilidad,6668,Roma
+2025-10-25,Contabilidad,8195,Polanco
+2025-10-26,Papelería,1966,Condesa
+2025-10-26,Papelería,966,Roma
+2025-10-26,Papelería,2105,Polanco
+2025-10-28,Pago de crédito de financiamiento,10584,Roma
+2025-10-28,Pago de crédito de financiamiento,9582,Polanco
+2025-10-28,Pago de crédito de financiamiento,11644,Condesa
+2025-11-01,Nómina,56210,Polanco
+2025-11-01,Renta,68945,Polanco
+2025-11-01,Renta,60275,Condesa
+2025-11-01,Renta,63077,Roma
+2025-11-01,Nómina,52212,Roma
+2025-11-01,Nómina,51431,Condesa
+2025-11-02,Microsoft 365,2200,Roma
+2025-11-02,Microsoft 365,2200,Polanco
+2025-11-02,Microsoft 365,2200,Condesa
+2025-11-03,Internet,1261,Polanco
+2025-11-03,Internet,1187,Condesa
+2025-11-03,Internet,966,Roma
+2025-11-05,Luz,7392,Polanco
+2025-11-05,Luz,8773,Condesa
+2025-11-05,Luz,5940,Roma
+2025-11-10,Publicidad,10424,Roma
+2025-11-10,Publicidad,9427,Condesa
+2025-11-10,Publicidad,10531,Polanco
+2025-11-12,Agua,2498,Condesa
+2025-11-12,Agua,2652,Polanco
+2025-11-12,Agua,2186,Roma
+2025-11-15,Limpieza,5338,Condesa
+2025-11-15,Limpieza,5548,Polanco
+2025-11-15,Limpieza,4794,Roma
+2025-11-18,Mantenimiento de equipo,10084,Polanco
+2025-11-18,Mantenimiento de equipo,8922,Condesa
+2025-11-18,Mantenimiento de equipo,4833,Roma
+2025-11-20,Mantenimiento de sucursal,3627,Condesa
+2025-11-20,Mantenimiento de sucursal,6307,Polanco
+2025-11-20,Mantenimiento de sucursal,4381,Roma
+2025-11-22,Software administrativo,5835,Polanco
+2025-11-22,Software administrativo,5142,Condesa
+2025-11-22,Software administrativo,4860,Roma
+2025-11-25,Contabilidad,7763,Condesa
+2025-11-25,Contabilidad,8937,Roma
+2025-11-25,Contabilidad,5351,Polanco
+2025-11-26,Papelería,1780,Polanco
+2025-11-26,Papelería,2090,Roma
+2025-11-26,Papelería,1202,Condesa
+2025-11-28,Pago de crédito de financiamiento,6564,Roma
+2025-11-28,Pago de crédito de financiamiento,11517,Condesa
+2025-11-28,Pago de crédito de financiamiento,12050,Polanco
+2025-12-01,Renta,66771,Condesa
+2025-12-01,Nómina,58267,Condesa
+2025-12-01,Nómina,55573,Polanco
+2025-12-01,Renta,43528,Polanco
+2025-12-01,Nómina,52518,Roma
+2025-12-01,Renta,66545,Roma
+2025-12-02,Microsoft 365,2200,Polanco
+2025-12-02,Microsoft 365,2200,Roma
+2025-12-02,Microsoft 365,2200,Condesa
+2025-12-03,Internet,1038,Roma
+2025-12-03,Internet,1317,Condesa
+2025-12-03,Internet,1159,Polanco
+2025-12-05,Luz,9773,Polanco
+2025-12-05,Luz,5166,Roma
+2025-12-05,Luz,10470,Condesa
+2025-12-10,Publicidad,10534,Polanco
+2025-12-10,Publicidad,9832,Condesa
+2025-12-10,Publicidad,9087,Roma
+2025-12-12,Agua,3058,Polanco
+2025-12-12,Agua,1618,Condesa
+2025-12-12,Agua,2970,Roma
+2025-12-15,Limpieza,3175,Polanco
+2025-12-15,Limpieza,5641,Roma
+2025-12-15,Limpieza,4618,Condesa
+2025-12-18,Mantenimiento de equipo,4985,Condesa
+2025-12-18,Mantenimiento de equipo,11257,Polanco
+2025-12-18,Mantenimiento de equipo,4020,Roma
+2025-12-20,Mantenimiento de sucursal,5119,Condesa
+2025-12-20,Mantenimiento de sucursal,5756,Polanco
+2025-12-20,Mantenimiento de sucursal,2690,Roma
+2025-12-22,Software administrativo,3623,Roma
+2025-12-22,Software administrativo,3851,Condesa
+2025-12-22,Software administrativo,5323,Polanco
+2025-12-25,Contabilidad,5399,Roma
+2025-12-25,Contabilidad,6318,Condesa
+2025-12-25,Contabilidad,5402,Polanco
+2025-12-26,Papelería,1323,Roma
+2025-12-26,Papelería,1800,Condesa
+2025-12-26,Papelería,2095,Polanco
+2025-12-28,Pago de crédito de financiamiento,9531,Condesa
+2025-12-28,Pago de crédito de financiamiento,13325,Polanco
+2025-12-28,Pago de crédito de financiamiento,7943,Roma

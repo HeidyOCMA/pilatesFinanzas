@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pilates Finanzas - AI Assistant</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="chat-container">
+        <header>
+            <h1>🧘‍♀️ Pilates Finanzas AI</h1>
+            <p>Pregunta sobre ingresos, gastos o ganancias de tus sucursales</p>
+        </header>
+
+        <div class="chat-box" id="chatBox">
+            <div class="message bot">
+                👋 ¡Hola! Soy tu asistente financiero. Hazme cualquier pregunta sobre la base de datos.
+            </div>
+        </div>
+
+        <form id="chatForm" class="input-area">
+            <input type="text" id="userInput" placeholder="Ej: ¿Cuál es el gasto más alto?" autocomplete="off" required>
+            <button type="submit">Enviar</button>
+        </form>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+</html>

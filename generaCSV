@@ -1,0 +1,213 @@
+import random
+import datetime
+import pandas as pd
+import numpy as np
+
+# Semilla para reproducibilidad de los datos
+random.seed(42)
+np.random.seed(42)
+
+# ==========================================
+# 1. GENERACIÓN DE CLIENTES (500 FRECUENTES)
+# ==========================================
+first_names = [
+    "María", "Ana", "Laura", "Sofía", "Fernanda", "Valeria", "Camila", "Lucía", "Ximena", "Daniela",
+    "Mariana", "Andrea", "Paula", "Natalia", "Regina", "Renata", "Victoria", "Carolina", "Gabriela", "Claudia",
+    "Carlos", "Alejandro", "Mateo", "Santiago", "Diego", "Javier", "Luis", "Fernando", "Rodrigo", "Miguel"
+]
+last_names = [
+    "López", "García", "Pérez", "Torres", "Díaz", "Hernández", "Martínez", "González", "Rodríguez", "Sánchez",
+    "Ramírez", "Cruz", "Flores", "Gómez", "Morales", "Vázquez", "Jiménez", "Reyes", "Gutiérrez", "Mendoza"
+]
+
+# Pool de 500 nombres completos para simular clientes frecuentes
+clientes_pool = list(set([f"{random.choice(first_names)} {random.choice(last_names)}" for _ in range(1000)]))[:500]
+
+# ==========================================
+# 2. GENERACIÓN DE INGRESOS.CSV (~12,000 REGISTROS)
+# ==========================================
+# Pesos estacionales por mes (Altos: Ene, Mar, May, Sep, Nov | Bajos: Jul, Ago, Dic)
+seasonal_weights = {
+    1: 1.35,  # Enero (Propósitos)
+    2: 0.95,
+    3: 1.20,  # Marzo
+    4: 1.00,
+    5: 1.15,  # Mayo
+    6: 0.95,
+    7: 0.70,  # Julio (Vacaciones)
+    8: 0.75,  # Agosto (Vacaciones)
+    9: 1.10,  # Septiembre (Recuperación)
+    10: 1.00,
+    11: 1.25, # Noviembre (Muy bueno)
+    12: 0.70  # Diciembre (Viajes)
+}
+
+sucursales = ["Roma", "Condesa", "Polanco"]
+sucursal_weights = [0.40, 0.35, 0.25] # La sucursal Roma vende un poco más
+
+# Mapeo de Clase a Aparato
+clase_aparato_map = {
+    "Reformer": "Reformer",
+    "Chair": "Chair",
+    "Cadillac": "Cadillac",
+    "Mat Pilates": "Ninguno"
+}
+
+ingresos_data = []
+
+# Iterar sobre años y metas base mensuales de ventas
+for year, base_monthly_sales in [(2023, 300), (2024, 340), (2025, 390)]:
+    for month in range(1, 13):
+        # Target mensual ajustado por estacionalidad
+        monthly_target = int(round(base_monthly_sales * seasonal_weights[month]))
+        
+        # Días del mes
+        if month in [1, 3, 5, 7, 8, 10, 12]:
+            days_in_month = 31
+        elif month in [4, 6, 9, 11]:
+            days_in_month = 30
+        else:
+            days_in_month = 29 if year == 2024 else 28
+            
+        for _ in range(monthly_target):
+            day = random.randint(1, days_in_month)
+            fecha_str = f"{year}-{month:02d}-{day:02d}"
+            
+            cliente = random.choice(clientes_pool)
+            sucursal = np.random.choice(sucursales, p=sucursal_weights)
+            
+            # Distribución de TipoVenta
+            tipo_venta_prob = random.random()
+            
+            if tipo_venta_prob < 0.20:
+                tipo_venta = "Clase Individual"
+                paquete = 0
+                fitpass = "No"
+                total = random.randint(380, 520)
+            elif tipo_venta_prob < 0.55:
+                tipo_venta = "Fitpass"
+                paquete = 0
+                fitpass = "Sí"
+                total = random.randint(180, 240)
+            else:
+                tipo_venta = "Paquete"
+                fitpass = "No"
+                # Elección del tamaño del paquete
+                pkg_choice = np.random.choice([8, 12, 24], p=[0.50, 0.35, 0.15])
+                paquete = int(pkg_choice)
+                if paquete == 8:
+                    total = random.randint(2900, 3300)
+                elif paquete == 12:
+                    total = random.randint(4100, 4700)
+                else: # 24
+                    total = random.randint(7900, 8900)
+            
+            # Selección de Clase y Aparato
+            clase = np.random.choice(["Reformer", "Chair", "Cadillac", "Mat Pilates"], p=[0.50, 0.20, 0.15, 0.15])
+            aparato = clase_aparato_map[clase]
+            
+            ingresos_data.append({
+                "Fecha": fecha_str,
+                "Cliente": cliente,
+                "TipoVenta": tipo_venta,
+                "Clase": clase,
+                "Aparato": aparato,
+                "Paquete": paquete,
+                "Fitpass": fitpass,
+                "Sucursal": sucursal,
+                "Total": total
+            })
+
+df_ingresos = pd.DataFrame(ingresos_data)
+# Ordenar cronológicamente
+df_ingresos['Fecha_dt'] = pd.to_datetime(df_ingresos['Fecha'])
+df_ingresos = df_ingresos.sort_values('Fecha_dt').drop(columns=['Fecha_dt']).reset_index(drop=True)
+df_ingresos.to_csv("ingresos.csv", index=False)
+
+
+# ==========================================
+# 3. GENERACIÓN DE GASTOS.CSV
+# ==========================================
+gastos_data = []
+
+# Metas de Publicidad por año
+pub_targets = {
+    2023: 12000,
+    2024: 20000,
+    2025: 30000
+}
+
+# Rangos de Nómina por año (Crecimiento de 4 -> 5 -> 6 instructores)
+payroll_ranges = {
+    2023: (110000, 130000),
+    2024: (130000, 150000),
+    2025: (150000, 175000)
+}
+
+for year in [2023, 2024, 2025]:
+    for month in range(1, 13):
+        for sucursal in sucursales:
+            # 1. Nómina
+            p_min, p_max = payroll_ranges[year]
+            nomina_monto = random.randint(p_min // 3, p_max // 3)
+            gastos_data.append({"Fecha": f"{year}-{month:02d}-01", "TipoGasto": "Nómina", "Costo": nomina_monto, "Sucursal": sucursal})
+            
+            # 2. Renta
+            renta_monto = random.randint(40000, 70000)
+            gastos_data.append({"Fecha": f"{year}-{month:02d}-01", "TipoGasto": "Renta", "Costo": renta_monto, "Sucursal": sucursal})
+            
+            # 3. Microsoft 365
+            gastos_data.append({"Fecha": f"{year}-{month:02d}-02", "TipoGasto": "Microsoft 365", "Costo": 2200, "Sucursal": sucursal})
+            
+            # 4. Internet
+            internet_monto = random.randint(900, 1500)
+            gastos_data.append({"Fecha": f"{year}-{month:02d}-03", "TipoGasto": "Internet", "Costo": internet_monto, "Sucursal": sucursal})
+            
+            # 5. Luz
+            luz_monto = random.randint(5000, 11000)
+            gastos_data.append({"Fecha": f"{year}-{month:02d}-05", "TipoGasto": "Luz", "Costo": luz_monto, "Sucursal": sucursal})
+            
+            # 6. Publicidad
+            pub_base = pub_targets[year] / 3
+            pub_monto = int(random.uniform(pub_base * 0.9, pub_base * 1.1))
+            gastos_data.append({"Fecha": f"{year}-{month:02d}-10", "TipoGasto": "Publicidad", "Costo": pub_monto, "Sucursal": sucursal})
+            
+            # 7. Agua
+            agua_monto = random.randint(1500, 3500)
+            gastos_data.append({"Fecha": f"{year}-{month:02d}-12", "TipoGasto": "Agua", "Costo": agua_monto, "Sucursal": sucursal})
+            
+            # 8. Limpieza
+            limpieza_monto = random.randint(3000, 6000)
+            gastos_data.append({"Fecha": f"{year}-{month:02d}-15", "TipoGasto": "Limpieza", "Costo": limpieza_monto, "Sucursal": sucursal})
+            
+            # 9. Mantenimiento de equipo
+            maint_eq = random.randint(2000, 12000)
+            gastos_data.append({"Fecha": f"{year}-{month:02d}-18", "TipoGasto": "Mantenimiento de equipo", "Costo": maint_eq, "Sucursal": sucursal})
+            
+            # 10. Mantenimiento de sucursal
+            maint_suc = random.randint(2500, 8000)
+            gastos_data.append({"Fecha": f"{year}-{month:02d}-20", "TipoGasto": "Mantenimiento de sucursal", "Costo": maint_suc, "Sucursal": sucursal})
+            
+            # 11. Software administrativo
+            gastos_data.append({"Fecha": f"{year}-{month:02d}-22", "TipoGasto": "Software administrativo", "Costo": random.randint(3500, 6000), "Sucursal": sucursal})
+            
+            # 12. Contabilidad
+            gastos_data.append({"Fecha": f"{year}-{month:02d}-25", "TipoGasto": "Contabilidad", "Costo": random.randint(5000, 9000), "Sucursal": sucursal})
+            
+            # 13. Papelería
+            gastos_data.append({"Fecha": f"{year}-{month:02d}-26", "TipoGasto": "Papelería", "Costo": random.randint(800, 2200), "Sucursal": sucursal})
+            
+            # 14. Pago de crédito de financiamiento
+            gastos_data.append({"Fecha": f"{year}-{month:02d}-28", "TipoGasto": "Pago de crédito de financiamiento", "Costo": random.randint(18000, 40000) // 3, "Sucursal": sucursal})
+
+# Compras extraordinarias de Reformers
+gastos_data.append({"Fecha": "2023-06-15", "TipoGasto": "Pago de compra de reformers", "Costo": 250000, "Sucursal": "Roma"})
+gastos_data.append({"Fecha": "2025-04-10", "TipoGasto": "Pago de compra de reformers", "Costo": 300000, "Sucursal": "Condesa"})
+
+df_gastos = pd.DataFrame(gastos_data)
+# Ordenar cronológicamente
+df_gastos['Fecha_dt'] = pd.to_datetime(df_gastos['Fecha'])
+df_gastos = df_gastos.sort_values('Fecha_dt').drop(columns=['Fecha_dt']).reset_index(drop=True)
+df_gastos.to_csv("gastos.csv", index=False)
+
+print("¡Archivos generados exitosamente!")

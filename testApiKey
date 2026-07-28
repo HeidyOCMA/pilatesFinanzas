@@ -1,0 +1,28 @@
+import os
+from dotenv import load_dotenv
+from google import genai
+
+# Carga las variables del archivo .env
+load_dotenv()
+
+# Lee la API Key
+api_key = os.getenv("GEMINI_API_KEY")
+
+if not api_key:
+    print("❌ No se encontró la variable GEMINI_API_KEY en el archivo .env")
+else:
+    print(f"🔑 Clave detectada (inicia con): {api_key[:6]}...")
+    
+    try:
+        # Inicializa el cliente con la nueva librería
+        client = genai.Client(api_key=api_key)
+        
+        # Prueba enviando un mensaje al modelo
+        response = client.models.generate_content(
+            model="gemini-2.5-flash",
+            contents="Hola, responde 'OK' si lees esto."
+        )
+        print("✅ Conexión Exitosa. Gemini respondió:", response.text)
+        
+    except Exception as e:
+        print("❌ Error de la API:", e)

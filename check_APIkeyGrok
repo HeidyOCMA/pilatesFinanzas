@@ -1,0 +1,40 @@
+import os
+from dotenv import load_dotenv
+from groq import Groq
+
+# Cargar variables de entorno
+load_dotenv()
+
+api_key = os.getenv("GROK_API_KEY")
+
+print("--- DIAGNÓSTICO DE CLAVE GROQ ---")
+
+if not api_key:
+    print(" ERROR: No se encontró GROQ_API_KEY en el archivo .env")
+else:
+    print(f"✅ Variable encontrada.")
+    print(f"📌 Longitud total: {len(api_key)} caracteres")
+    print(f"📌 Empieza con: '{api_key[:4]}'")
+    print(f"📌 Termina con: '{api_key[-4:]}'")
+
+    try:
+        # Inicializar el cliente de Groq
+        client = Groq(api_key=api_key)
+
+        # Hacer petición de prueba
+        response = client.chat.completions.create(
+            messages=[
+                {
+                    "role": "user",
+                    "content": "Responde con una sola palabra: ¡Éxito!"
+                }
+            ],
+            model="llama-3.3-70b-versatile",
+        )
+
+        resultado = response.choices[0].message.content
+        print("\n🎉 ¡ÉXITO TOTAL!")
+        print(f"🤖 Respuesta del modelo: {resultado}")
+
+    except Exception as e:
+        print(f"\n❌ FALLÓ LA PETICIÓN:\n{e}")
